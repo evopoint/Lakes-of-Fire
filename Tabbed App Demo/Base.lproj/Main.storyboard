@@ -48,14 +48,6 @@
                                     <navigationItem title="Events at LoF" id="V32-me-Xku"/>
                                 </items>
                             </navigationBar>
-                            <tabBar contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="eO6-U4-LI2">
-                                <rect key="frame" x="0.0" y="519" width="320" height="49"/>
-                                <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES"/>
-                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
-                                <items>
-                                    <tabBarItem title="Events" image="Events" id="L8I-lH-VEO"/>
-                                </items>
-                            </tabBar>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                         <constraints>
@@ -70,7 +62,8 @@
                             <constraint firstItem="8yB-2o-OTD" firstAttribute="centerX" secondItem="0Io-Fi-d5T" secondAttribute="centerX" id="zsY-v2-ImQ"/>
                         </constraints>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Events" image="Events" id="Ocp-DA-7p4"/>
+                    <tabBarItem key="tabBarItem" title="Events" image="Events" id="A6X-Kt-Edx"/>
+                    <simulatedTabBarMetrics key="simulatedBottomBarMetrics"/>
                     <connections>
                         <outlet property="EventsTableView" destination="8yB-2o-OTD" id="DRk-SJ-L4u"/>
                         <segue destination="khB-hj-8fE" kind="showDetail" identifier="eventShowDetail" id="K2E-yE-m1D"/>
