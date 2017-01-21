@@ -24,6 +24,9 @@ class FirstViewController: UIViewController, UITableViewDelegate, UITableViewDat
     var eventsDesc: [String] = []
     var eventsLoc: [String] = []
     var eventsHLoc: [String] = []
+    var eventsDay: [String] = []
+    var eventsStart: [String] = []
+    var eventsEnd: [String] = []
     var aObject: [String:AnyObject] = [:]
     
     public func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
@@ -67,6 +70,10 @@ class FirstViewController: UIViewController, UITableViewDelegate, UITableViewDat
                         eventsDesc.append(aObject["Description"] as! String)
                         eventsLoc.append(aObject["Location"] as! String)
                         eventsHLoc.append(aObject["HumanLocation"] as! String)
+                        eventsDay.append(aObject["Day"] as! String)
+                        eventsStart.append(aObject["StartTime"] as! String)
+                        eventsEnd.append(aObject["EndTime"] as! String)
+                        
                         
                         
                         
@@ -124,6 +131,10 @@ class FirstViewController: UIViewController, UITableViewDelegate, UITableViewDat
                 controller.detailDesc = eventsDesc[indexPath.row]
                 controller.detailLoc = eventsLoc[indexPath.row]
                 controller.detailHLoc = eventsHLoc[indexPath.row]
+                controller.detailDay = eventsDay[indexPath.row]
+                controller.detailStart = eventsStart[indexPath.row]
+                controller.detailEnd = eventsEnd[indexPath.row]
+                
                 
  print(events[indexPath.row])
                 

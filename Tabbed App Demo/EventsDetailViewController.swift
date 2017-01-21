@@ -26,7 +26,11 @@ class EventsDetailViewController: UIViewController {
     
     @IBOutlet var detailLocLabel: UILabel!
     
+    @IBOutlet weak var detailDayLabel: UILabel!
 
+    @IBOutlet weak var detailStartLabel: UILabel!
+    
+    @IBOutlet weak var detailEndLabel: UILabel!
     
     func configureView() {
 
@@ -55,7 +59,21 @@ class EventsDetailViewController: UIViewController {
                 hloc.text = detailh
             }
         }
-        
+        if let detailda = self.detailDay {
+            if let day = self.detailDayLabel {
+                day.text = detailda
+            }
+        }
+        if let detailstart = self.detailStart {
+            if let start = self.detailStartLabel {
+                start.text = detailstart
+            }
+        }
+        if let detailend = self.detailEnd {
+            if let end = self.detailEndLabel {
+                end.text = detailend
+            }
+        }
     }
     
 
@@ -104,6 +122,24 @@ class EventsDetailViewController: UIViewController {
             self.configureView()
         }
     }
+    var detailDay: String? {
+        didSet {
+            // Update the view.
+            self.configureView()
+        }
+    }
 
+    var detailStart: String? {
+        didSet {
+            // Update the view.
+            self.configureView()
+        }
+    }
+    var detailEnd: String? {
+        didSet {
+            // Update the view.
+            self.configureView()
+        }
+    }
     
 }
