@@ -19,11 +19,14 @@ class CampsDetailViewController: UIViewController {
     
     @IBOutlet weak var detailHLocLabel: UILabel!
     
+    var campEventList: String = ""
+    @IBOutlet weak var detailEventLabel: UILabel!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        self.configureView()
         self.findEvents()
+        self.configureView()
 
         // Do any additional setup after loading the view.
     }
@@ -41,6 +44,7 @@ class CampsDetailViewController: UIViewController {
         if let detail = self.detailItem {
             if let label = self.detailTitleLabel {
                 label.text = detail.description
+ //               print("detail")
             }
         }
         
@@ -56,12 +60,15 @@ class CampsDetailViewController: UIViewController {
             }
         }
         
+            if let detailevent = self.detailEventLabel {
+                detailevent.text = campEventList
+            }
+        
+
+        
     }
     
         func findEvents() {
-            var objects = [String]()
-            
-            var TableData:Array<String> = Array <String>()
             var events: [String] = []
             var eventsDesc: [String] = []
             var eventsLoc: [String] = []
@@ -94,21 +101,25 @@ class CampsDetailViewController: UIViewController {
                             aObject = arrJSON[index] as! [String : AnyObject]
 
                             
-                            if (aObject["Location"] as! String) == "Canned Ham Camp" {
-                                print(aObject["Title"] as! String)
-
-                            
-                            events.append(aObject["Title"] as! String)
-                            eventsDesc.append(aObject["Description"] as! String)
-                            eventsLoc.append(aObject["Location"] as! String)
-                            eventsHLoc.append(aObject["HumanLocation"] as! String)
-                            eventsDay.append(aObject["Day"] as! String)
-                            eventsStart.append(aObject["StartTime"] as! String)
-                            eventsEnd.append(aObject["EndTime"] as! String)
+                            if (aObject["Location"] as! String) == detailItem {
+                                
+                                
+                               print(aObject["Title"] as! String)
+                            campEventList.append("\nEvent Title: ")
+                            campEventList.append(aObject["Title"] as! String)
+                            campEventList.append("\nDay: ")
+                            campEventList.append(aObject["Day"] as! String)
+                            campEventList.append("\nTime: ")
+                            campEventList.append(aObject["HumanTime"] as! String)
+                            campEventList.append("\nDescription: ")
+                            campEventList.append(aObject["Description"] as! String)
+                            campEventList.append("\n\n")
+                                
 
                             
                             }
                             
+                            print(campEventList)
                             
                             
                             
