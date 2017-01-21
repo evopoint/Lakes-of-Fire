@@ -29,7 +29,7 @@
                                         <rect key="frame" x="0.0" y="28" width="320" height="44"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="Tvt-Qb-CxW" id="x3O-ZQ-sYx">
-                                            <rect key="frame" x="0.0" y="0.0" width="320" height="43.5"/>
+                                            <rect key="frame" x="0.0" y="0.0" width="320" height="43"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                         </tableViewCellContentView>
                                     </tableViewCell>
@@ -251,7 +251,7 @@
                                         <rect key="frame" x="0.0" y="28" width="326" height="44"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="Mxd-dh-w9j" id="woD-8i-CiY">
-                                            <rect key="frame" x="0.0" y="0.0" width="326" height="43.5"/>
+                                            <rect key="frame" x="0.0" y="0.0" width="326" height="43"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                         </tableViewCellContentView>
                                     </tableViewCell>
@@ -285,11 +285,45 @@
                     <tabBarItem key="tabBarItem" title="Camps" image="Camp" id="cPa-gy-q4n"/>
                     <connections>
                         <outlet property="CampsTableView" destination="lbM-2a-hXv" id="vYT-v5-PcY"/>
+                        <segue destination="wqL-cp-26s" kind="showDetail" identifier="campShowDetail" id="5Gb-P7-VSx"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="4Nw-L8-lE0" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="960" y="376.05633802816902"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="AsA-wA-ask">
+            <objects>
+                <viewController id="wqL-cp-26s" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="Cug-xU-cYC"/>
+                        <viewControllerLayoutGuide type="bottom" id="Op8-Er-mQg"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="BoR-fA-Jd5">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <navigationBar contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="d89-6u-2fK">
+                                <rect key="frame" x="0.0" y="28" width="320" height="44"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
+                                <items>
+                                    <navigationItem title="Camp Detail" id="FiO-lL-d10">
+                                        <barButtonItem key="leftBarButtonItem" systemItem="done" id="Cdv-Zw-k57">
+                                            <connections>
+                                                <segue destination="8rJ-Kc-sve" kind="show" id="jpD-0d-sff"/>
+                                            </connections>
+                                        </barButtonItem>
+                                    </navigationItem>
+                                </items>
+                            </navigationBar>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="rD4-Ra-han" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="2049" y="376"/>
         </scene>
         <!--Tab Bar Controller-->
         <scene sceneID="yl2-sM-qoP">
@@ -319,6 +353,7 @@
         <image name="Home" width="30" height="30"/>
     </resources>
     <inferredMetricsTieBreakers>
+        <segue reference="jpD-0d-sff"/>
         <segue reference="d56-nq-9Pm"/>
     </inferredMetricsTieBreakers>
 </document>
