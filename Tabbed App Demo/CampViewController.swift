@@ -67,7 +67,7 @@ class CampViewController: UIViewController, UITableViewDelegate, UITableViewData
                         
                         
                         
-                        print(camps)
+                 //       print(camps)
                         
                         
                     }
@@ -111,9 +111,17 @@ class CampViewController: UIViewController, UITableViewDelegate, UITableViewData
             
             if let indexPath = CampsTableView.indexPathForSelectedRow {
                 let controller = segue.destination  as! CampsDetailViewController
+                controller.detailItem = camps[indexPath.row]
+                controller.detailLoc = campsLoc[indexPath.row]
+                controller.detailHLoc = campsHLoc[indexPath.row]
                 
                 controller.navigationItem.leftBarButtonItem = self.splitViewController?.displayModeButtonItem
                 controller.navigationItem.leftItemsSupplementBackButton = true
+                
+ print(camps[indexPath.row])
+                 print(campsLoc[indexPath.row])
+                 print(campsHLoc[indexPath.row])
+                
             }
         }
         
