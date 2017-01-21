@@ -7,9 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		63330A481E33DC2E004DADF2 /* camps.json in Resources */ = {isa = PBXBuildFile; fileRef = 63330A471E33DC2E004DADF2 /* camps.json */; };
 		637FC5221DC8EDD80008BEE2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 637FC5211DC8EDD80008BEE2 /* AppDelegate.swift */; };
 		637FC5241DC8EDD80008BEE2 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 637FC5231DC8EDD80008BEE2 /* FirstViewController.swift */; };
-		637FC5261DC8EDD80008BEE2 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 637FC5251DC8EDD80008BEE2 /* SecondViewController.swift */; };
+		637FC5261DC8EDD80008BEE2 /* CampViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 637FC5251DC8EDD80008BEE2 /* CampViewController.swift */; };
 		637FC5291DC8EDD80008BEE2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 637FC5271DC8EDD80008BEE2 /* Main.storyboard */; };
 		637FC52B1DC8EDD80008BEE2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 637FC52A1DC8EDD80008BEE2 /* Assets.xcassets */; };
 		637FC52E1DC8EDD80008BEE2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 637FC52C1DC8EDD80008BEE2 /* LaunchScreen.storyboard */; };
@@ -21,10 +22,11 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		63330A471E33DC2E004DADF2 /* camps.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = camps.json; sourceTree = "<group>"; };
 		637FC51E1DC8EDD80008BEE2 /* Tabbed App Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Tabbed App Demo.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		637FC5211DC8EDD80008BEE2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		637FC5231DC8EDD80008BEE2 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
-		637FC5251DC8EDD80008BEE2 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		637FC5251DC8EDD80008BEE2 /* CampViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CampViewController.swift; sourceTree = "<group>"; };
 		637FC5281DC8EDD80008BEE2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		637FC52A1DC8EDD80008BEE2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		637FC52D1DC8EDD80008BEE2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 				63A3D30D1DC94BA700D653FC /* events.xml */,
 				63C27B291DCA92A900D49434 /* events.json */,
 				6397DA871E1CB78A003A09D3 /* events2.json */,
+				63330A471E33DC2E004DADF2 /* camps.json */,
 			);
 			sourceTree = "<group>";
 		};
@@ -73,7 +76,7 @@
 				637FC5211DC8EDD80008BEE2 /* AppDelegate.swift */,
 				637FC5231DC8EDD80008BEE2 /* FirstViewController.swift */,
 				63B372591DCBD169007A6377 /* EventsDetailViewController.swift */,
-				637FC5251DC8EDD80008BEE2 /* SecondViewController.swift */,
+				637FC5251DC8EDD80008BEE2 /* CampViewController.swift */,
 				637FC5271DC8EDD80008BEE2 /* Main.storyboard */,
 				637FC52A1DC8EDD80008BEE2 /* Assets.xcassets */,
 				637FC52C1DC8EDD80008BEE2 /* LaunchScreen.storyboard */,
@@ -147,6 +150,7 @@
 				637FC52B1DC8EDD80008BEE2 /* Assets.xcassets in Resources */,
 				637FC5291DC8EDD80008BEE2 /* Main.storyboard in Resources */,
 				6397DA881E1CB78A003A09D3 /* events2.json in Resources */,
+				63330A481E33DC2E004DADF2 /* camps.json in Resources */,
 				637FC5361DC919DB0008BEE2 /* Andrew-Miller-4-940x960.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -159,7 +163,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				63B3725A1DCBD169007A6377 /* EventsDetailViewController.swift in Sources */,
-				637FC5261DC8EDD80008BEE2 /* SecondViewController.swift in Sources */,
+				637FC5261DC8EDD80008BEE2 /* CampViewController.swift in Sources */,
 				637FC5221DC8EDD80008BEE2 /* AppDelegate.swift in Sources */,
 				637FC5241DC8EDD80008BEE2 /* FirstViewController.swift in Sources */,
 			);
