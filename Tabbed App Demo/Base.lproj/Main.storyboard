@@ -292,15 +292,15 @@
             </objects>
             <point key="canvasLocation" x="960" y="376.05633802816902"/>
         </scene>
-        <!--View Controller-->
+        <!--Camps Detail View Controller-->
         <scene sceneID="AsA-wA-ask">
             <objects>
-                <viewController id="wqL-cp-26s" sceneMemberID="viewController">
+                <viewController id="wqL-cp-26s" customClass="CampsDetailViewController" customModule="Tabbed_App_Demo" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="Cug-xU-cYC"/>
                         <viewControllerLayoutGuide type="bottom" id="Op8-Er-mQg"/>
                     </layoutGuides>
-                    <view key="view" contentMode="scaleToFill" id="BoR-fA-Jd5">
+                    <view key="view" contentMode="scaleToFill" id="BoR-fA-Jd5" customClass="Camps">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
@@ -317,13 +317,40 @@
                                     </navigationItem>
                                 </items>
                             </navigationBar>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="campTitle" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="wyb-Jj-4D2">
+                                <rect key="frame" x="16" y="112" width="288" height="40"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" style="UICTFontTextStyleTitle1"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="SiteId" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="tHX-uL-v45">
+                                <rect key="frame" x="16" y="169" width="288" height="21"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Location Notes" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="GuD-uk-O9S">
+                                <rect key="frame" x="16" y="216" width="288" height="38"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
+                    <connections>
+                        <outlet property="CampsDetailViewController" destination="BoR-fA-Jd5" id="I76-fK-Z8a"/>
+                        <outlet property="detailHLocLabel" destination="GuD-uk-O9S" id="bTH-OI-YMI"/>
+                        <outlet property="detailLocLabel" destination="tHX-uL-v45" id="nDS-c4-i1w"/>
+                        <outlet property="detailTitleLabel" destination="wyb-Jj-4D2" id="SBb-ud-RjK"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="rD4-Ra-han" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2049" y="376"/>
+            <point key="canvasLocation" x="2047.5" y="375"/>
         </scene>
         <!--Tab Bar Controller-->
         <scene sceneID="yl2-sM-qoP">
@@ -354,6 +381,6 @@
     </resources>
     <inferredMetricsTieBreakers>
         <segue reference="jpD-0d-sff"/>
-        <segue reference="d56-nq-9Pm"/>
+        <segue reference="T9d-G3-UFQ"/>
     </inferredMetricsTieBreakers>
 </document>

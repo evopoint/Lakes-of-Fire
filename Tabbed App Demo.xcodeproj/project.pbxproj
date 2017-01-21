@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		63330A481E33DC2E004DADF2 /* camps.json in Resources */ = {isa = PBXBuildFile; fileRef = 63330A471E33DC2E004DADF2 /* camps.json */; };
+		63330A4A1E33E2CA004DADF2 /* CampsDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63330A491E33E2CA004DADF2 /* CampsDetailViewController.swift */; };
 		637FC5221DC8EDD80008BEE2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 637FC5211DC8EDD80008BEE2 /* AppDelegate.swift */; };
 		637FC5241DC8EDD80008BEE2 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 637FC5231DC8EDD80008BEE2 /* FirstViewController.swift */; };
 		637FC5261DC8EDD80008BEE2 /* CampViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 637FC5251DC8EDD80008BEE2 /* CampViewController.swift */; };
@@ -23,6 +24,7 @@
 
 /* Begin PBXFileReference section */
 		63330A471E33DC2E004DADF2 /* camps.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = camps.json; sourceTree = "<group>"; };
+		63330A491E33E2CA004DADF2 /* CampsDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CampsDetailViewController.swift; sourceTree = "<group>"; };
 		637FC51E1DC8EDD80008BEE2 /* Tabbed App Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Tabbed App Demo.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		637FC5211DC8EDD80008BEE2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		637FC5231DC8EDD80008BEE2 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
@@ -77,6 +79,7 @@
 				637FC5231DC8EDD80008BEE2 /* FirstViewController.swift */,
 				63B372591DCBD169007A6377 /* EventsDetailViewController.swift */,
 				637FC5251DC8EDD80008BEE2 /* CampViewController.swift */,
+				63330A491E33E2CA004DADF2 /* CampsDetailViewController.swift */,
 				637FC5271DC8EDD80008BEE2 /* Main.storyboard */,
 				637FC52A1DC8EDD80008BEE2 /* Assets.xcassets */,
 				637FC52C1DC8EDD80008BEE2 /* LaunchScreen.storyboard */,
@@ -164,6 +167,7 @@
 			files = (
 				63B3725A1DCBD169007A6377 /* EventsDetailViewController.swift in Sources */,
 				637FC5261DC8EDD80008BEE2 /* CampViewController.swift in Sources */,
+				63330A4A1E33E2CA004DADF2 /* CampsDetailViewController.swift in Sources */,
 				637FC5221DC8EDD80008BEE2 /* AppDelegate.swift in Sources */,
 				637FC5241DC8EDD80008BEE2 /* FirstViewController.swift in Sources */,
 			);

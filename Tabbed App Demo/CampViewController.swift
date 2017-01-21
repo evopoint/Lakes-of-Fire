@@ -97,6 +97,28 @@ class CampViewController: UIViewController, UITableViewDelegate, UITableViewData
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
         performSegue(withIdentifier: "campShowDetail", sender: nil)
     }
+
+    
+    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+        
+        
+        
+        if segue.identifier == "campShowDetail" {
+            
+            let backItem = UIBarButtonItem()
+            backItem.title = "Back"
+            navigationItem.backBarButtonItem = backItem
+            
+            if let indexPath = CampsTableView.indexPathForSelectedRow {
+                let controller = segue.destination  as! CampsDetailViewController
+                
+                controller.navigationItem.leftBarButtonItem = self.splitViewController?.displayModeButtonItem
+                controller.navigationItem.leftItemsSupplementBackButton = true
+            }
+        }
+        
+    }
+    
     
 
 }
