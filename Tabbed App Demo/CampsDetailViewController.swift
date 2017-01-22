@@ -19,8 +19,11 @@ class CampsDetailViewController: UIViewController {
     
     @IBOutlet weak var detailHLocLabel: UILabel!
     
-    var campEventList: String = ""
     @IBOutlet weak var detailEventLabel: UILabel!
+
+    var campEventList: String = ""
+    
+    var scrollView: UIScrollView!
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -44,6 +47,7 @@ class CampsDetailViewController: UIViewController {
         if let detail = self.detailItem {
             if let label = self.detailTitleLabel {
                 label.text = detail.description
+                detailTitleLabel.sizeToFit()
  //               print("detail")
             }
         }
@@ -52,16 +56,19 @@ class CampsDetailViewController: UIViewController {
         if let detaill = self.detailLoc {
             if let loc = self.detailLocLabel {
                 loc.text = detaill
+                detailLocLabel.sizeToFit()
             }
         }
         if let detailh = self.detailHLoc {
             if let hloc = self.detailHLocLabel {
                 hloc.text = detailh
+                detailHLocLabel.sizeToFit()
             }
         }
         
             if let detailevent = self.detailEventLabel {
                 detailevent.text = campEventList
+                detailEventLabel.sizeToFit()
             }
         
 
