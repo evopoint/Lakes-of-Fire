@@ -17,9 +17,11 @@
 		637FC52E1DC8EDD80008BEE2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 637FC52C1DC8EDD80008BEE2 /* LaunchScreen.storyboard */; };
 		637FC5361DC919DB0008BEE2 /* Andrew-Miller-4-940x960.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 637FC5351DC919DB0008BEE2 /* Andrew-Miller-4-940x960.jpg */; };
 		6397DA881E1CB78A003A09D3 /* events2.json in Resources */ = {isa = PBXBuildFile; fileRef = 6397DA871E1CB78A003A09D3 /* events2.json */; };
+		639801971E46628F0008579C /* EventTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 639801961E46628F0008579C /* EventTableViewCell.swift */; };
 		63A3D30E1DC94BA700D653FC /* events.xml in Resources */ = {isa = PBXBuildFile; fileRef = 63A3D30D1DC94BA700D653FC /* events.xml */; };
 		63B3725A1DCBD169007A6377 /* EventsDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63B372591DCBD169007A6377 /* EventsDetailViewController.swift */; };
 		63C27B2A1DCA92A900D49434 /* events.json in Resources */ = {isa = PBXBuildFile; fileRef = 63C27B291DCA92A900D49434 /* events.json */; };
+		63EA8F3C1E46509400DE5333 /* CampTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63EA8F3B1E46509400DE5333 /* CampTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,9 +37,11 @@
 		637FC52F1DC8EDD80008BEE2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		637FC5351DC919DB0008BEE2 /* Andrew-Miller-4-940x960.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Andrew-Miller-4-940x960.jpg"; sourceTree = "<group>"; };
 		6397DA871E1CB78A003A09D3 /* events2.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = events2.json; sourceTree = "<group>"; };
+		639801961E46628F0008579C /* EventTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EventTableViewCell.swift; sourceTree = "<group>"; };
 		63A3D30D1DC94BA700D653FC /* events.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = events.xml; sourceTree = "<group>"; };
 		63B372591DCBD169007A6377 /* EventsDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EventsDetailViewController.swift; sourceTree = "<group>"; };
 		63C27B291DCA92A900D49434 /* events.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = events.json; sourceTree = "<group>"; };
+		63EA8F3B1E46509400DE5333 /* CampTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CampTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,8 +81,10 @@
 			children = (
 				637FC5211DC8EDD80008BEE2 /* AppDelegate.swift */,
 				637FC5231DC8EDD80008BEE2 /* FirstViewController.swift */,
+				639801961E46628F0008579C /* EventTableViewCell.swift */,
 				63B372591DCBD169007A6377 /* EventsDetailViewController.swift */,
 				637FC5251DC8EDD80008BEE2 /* CampViewController.swift */,
+				63EA8F3B1E46509400DE5333 /* CampTableViewCell.swift */,
 				63330A491E33E2CA004DADF2 /* CampsDetailViewController.swift */,
 				637FC5271DC8EDD80008BEE2 /* Main.storyboard */,
 				637FC52A1DC8EDD80008BEE2 /* Assets.xcassets */,
@@ -169,6 +175,8 @@
 				637FC5261DC8EDD80008BEE2 /* CampViewController.swift in Sources */,
 				63330A4A1E33E2CA004DADF2 /* CampsDetailViewController.swift in Sources */,
 				637FC5221DC8EDD80008BEE2 /* AppDelegate.swift in Sources */,
+				639801971E46628F0008579C /* EventTableViewCell.swift in Sources */,
+				63EA8F3C1E46509400DE5333 /* CampTableViewCell.swift in Sources */,
 				637FC5241DC8EDD80008BEE2 /* FirstViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

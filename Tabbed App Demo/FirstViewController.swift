@@ -35,9 +35,11 @@ class FirstViewController: UIViewController, UITableViewDelegate, UITableViewDat
     
     
     public func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
-        
-        let cell = UITableViewCell(style: UITableViewCellStyle.default, reuseIdentifier: "eventCell")
-        cell.textLabel!.text = events[indexPath.row]
+        let cell = tableView.dequeueReusableCell(withIdentifier: "eventCell", for: indexPath) as! EventTableViewCell
+        // let cell = UITableViewCell(style: UITableViewCellStyle.default, reuseIdentifier: "eventCell") as! EventTableViewCell
+        cell.lblEventDate.text = eventsDay[indexPath.row]
+        cell.lblEventTitle.text = events[indexPath.row]
+        // cell.textLabel!.text = events[indexPath.row]
         return cell
         
     }

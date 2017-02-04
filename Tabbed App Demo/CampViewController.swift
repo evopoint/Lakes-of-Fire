@@ -14,6 +14,12 @@ class CampViewController: UIViewController, UITableViewDelegate, UITableViewData
    
     @IBOutlet weak var CampsTableView: UITableView!
     
+    @IBOutlet weak var campDate: UILabel!
+    
+    @IBOutlet weak var campTitle: UILabel!
+    
+    
+    
     var objects = [String]()
     
     var TableData:Array<String> = Array <String>()
@@ -30,8 +36,12 @@ class CampViewController: UIViewController, UITableViewDelegate, UITableViewData
     
     public func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         
-        let cell = UITableViewCell(style: UITableViewCellStyle.default, reuseIdentifier: "campCell")
-        cell.textLabel!.text = camps[indexPath.row]
+        let cell = tableView.dequeueReusableCell(withIdentifier: "campCell", for: indexPath) as! CampTableViewCell
+        
+            //  let cell = UITableViewCell(style: UITableViewCellStyle.default, reuseIdentifier: "campCell") as! CampTableViewCell
+
+        cell.lblCampCell!.text = camps[indexPath.row]
+   //c     call.lblCampDate!.text = camp
         return cell
         
     }
