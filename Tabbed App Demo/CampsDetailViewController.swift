@@ -20,6 +20,10 @@ class CampsDetailViewController: UIViewController {
     @IBOutlet weak var detailHLocLabel: UILabel!
     
     @IBOutlet weak var detailEventLabel: UILabel!
+    
+    @IBOutlet weak var detailEvent2Label: UITextView!
+    
+
 
     var campEventList: String = ""
     
@@ -31,10 +35,13 @@ class CampsDetailViewController: UIViewController {
         self.findEvents()
         self.configureView()
 
+        
+        
         // Do any additional setup after loading the view.
     }
 
     override func didReceiveMemoryWarning() {
+
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
@@ -66,9 +73,9 @@ class CampsDetailViewController: UIViewController {
             }
         }
         
-            if let detailevent = self.detailEventLabel {
+            if let detailevent = self.detailEvent2Label {
                 detailevent.text = campEventList
-                detailEventLabel.sizeToFit()
+                detailEvent2Label.sizeToFit()
             }
         
 
@@ -76,13 +83,6 @@ class CampsDetailViewController: UIViewController {
     }
     
         func findEvents() {
-            var events: [String] = []
-            var eventsDesc: [String] = []
-            var eventsLoc: [String] = []
-            var eventsHLoc: [String] = []
-            var eventsDay: [String] = []
-            var eventsStart: [String] = []
-            var eventsEnd: [String] = []
             var aObject: [String:AnyObject] = [:]
             
             
@@ -193,6 +193,8 @@ class CampsDetailViewController: UIViewController {
         }
     }
     
+
     
+   
     
 }
