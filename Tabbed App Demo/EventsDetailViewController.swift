@@ -38,6 +38,7 @@ class EventsDetailViewController: UIViewController {
         if let detail = self.detailItem {
             if let label = self.detailTitleLabel {
                 label.text = detail.description
+                detailTitleLabel.sizeToFit()
             }
         }
         
@@ -45,6 +46,7 @@ class EventsDetailViewController: UIViewController {
         if let detaild = self.detailDesc {
             if let desc = self.detailDescriptionLabel {
                 desc.text = detaild
+                detailDescriptionLabel.sizeToFit()
             }
         }
         
@@ -52,26 +54,31 @@ class EventsDetailViewController: UIViewController {
         if let detaill = self.detailLoc {
             if let loc = self.detailLocLabel {
                 loc.text = detaill
+                detailLocLabel.sizeToFit()
             }
         }
         if let detailh = self.detailHLoc {
             if let hloc = self.detailHLocLabel {
                 hloc.text = detailh
+                detailHLocLabel.sizeToFit()
             }
         }
         if let detailda = self.detailDay {
             if let day = self.detailDayLabel {
                 day.text = detailda
+                detailDayLabel.sizeToFit()
             }
         }
         if let detailstart = self.detailStart {
             if let start = self.detailStartLabel {
                 start.text = detailstart
+                detailStartLabel.sizeToFit()
             }
         }
         if let detailend = self.detailEnd {
             if let end = self.detailEndLabel {
                 end.text = detailend
+                detailEndLabel.sizeToFit()
             }
         }
     }
