@@ -73,8 +73,8 @@ class FirstViewController: UIViewController, UITableViewDelegate, UITableViewDat
                         eventsLoc.append(aObject["Location"] as! String)
                         eventsHLoc.append(aObject["HumanLocation"] as! String)
                         eventsDay.append(aObject["Day"] as! String)
-                        eventsStart.append(aObject["StartTime"] as! String)
-                        eventsEnd.append(aObject["EndTime"] as! String)
+                        eventsStart.append(aObject["Time"] as! String)
+                        eventsEnd.append(aObject["Duration"] as! String)
                         
                         
                         

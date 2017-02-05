@@ -26,6 +26,7 @@ class EventsDetailViewController: UIViewController {
     
     @IBOutlet var detailLocLabel: UILabel!
     
+    @IBOutlet weak var detailDescLabel: UITextView!
     @IBOutlet weak var detailDayLabel: UILabel!
 
     @IBOutlet weak var detailStartLabel: UILabel!
@@ -44,9 +45,9 @@ class EventsDetailViewController: UIViewController {
         
 
         if let detaild = self.detailDesc {
-            if let desc = self.detailDescriptionLabel {
+            if let desc = self.detailDescLabel {
                 desc.text = detaild
-                detailDescriptionLabel.sizeToFit()
+                detailDescLabel.sizeToFit()
             }
         }
         
