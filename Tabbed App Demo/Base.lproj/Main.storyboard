@@ -133,7 +133,7 @@
                                     <navigationItem title="Event Details" id="fa8-DM-uMJ">
                                         <barButtonItem key="leftBarButtonItem" systemItem="done" id="BVj-3r-jIt">
                                             <connections>
-                                                <segue destination="1Fz-7g-9Ce" kind="show" id="T9d-G3-UFQ"/>
+                                                <segue destination="Njo-5P-qWE" kind="unwind" unwindAction="unwindToEventViewControllerWithSegue:" id="zNg-Kq-Dzn"/>
                                             </connections>
                                         </barButtonItem>
                                     </navigationItem>
@@ -237,6 +237,7 @@
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="NL4-83-zTf" userLabel="First Responder" sceneMemberID="firstResponder"/>
+                <exit id="Njo-5P-qWE" userLabel="Exit" sceneMemberID="exit"/>
             </objects>
             <point key="canvasLocation" x="1852.5" y="-1027.5"/>
         </scene>
@@ -326,7 +327,7 @@
                                         <rect key="frame" x="0.0" y="28" width="326" height="44"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="Mxd-dh-w9j" id="woD-8i-CiY">
-                                            <rect key="frame" x="0.0" y="0.0" width="326" height="43"/>
+                                            <rect key="frame" x="0.0" y="0.0" width="326" height="44"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="campTitle" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="axc-ji-ZKx">
@@ -352,11 +353,7 @@
                                 <rect key="frame" x="0.0" y="431" width="320" height="49"/>
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES"/>
                                 <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
-                                <items>
-                                    <tabBarItem title="Home" image="Home" id="zIX-gr-vbo"/>
-                                    <tabBarItem title="Camps" image="Camp" id="no0-wO-e39"/>
-                                    <tabBarItem title="Events" image="Events" id="klp-5j-z4w"/>
-                                </items>
+                                <items/>
                             </tabBar>
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
@@ -419,7 +416,7 @@
                                     <navigationItem title="Camp Detail" id="FiO-lL-d10">
                                         <barButtonItem key="leftBarButtonItem" systemItem="done" id="Cdv-Zw-k57">
                                             <connections>
-                                                <segue destination="8rJ-Kc-sve" kind="show" id="jpD-0d-sff"/>
+                                                <segue destination="78H-BQ-i8h" kind="unwind" unwindAction="unwindToCampViewControllerWithSegue:" id="0J4-wF-s5D"/>
                                             </connections>
                                         </barButtonItem>
                                     </navigationItem>
@@ -478,6 +475,7 @@
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="rD4-Ra-han" userLabel="First Responder" sceneMemberID="firstResponder"/>
+                <exit id="78H-BQ-i8h" userLabel="Exit" sceneMemberID="exit"/>
             </objects>
             <point key="canvasLocation" x="2040" y="371.25"/>
         </scene>
@@ -507,8 +505,4 @@
         <image name="Events" width="30" height="30"/>
         <image name="Home" width="30" height="30"/>
     </resources>
-    <inferredMetricsTieBreakers>
-        <segue reference="jpD-0d-sff"/>
-        <segue reference="T9d-G3-UFQ"/>
-    </inferredMetricsTieBreakers>
 </document>

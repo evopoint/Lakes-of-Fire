@@ -116,6 +116,9 @@ class FirstViewController: UIViewController, UITableViewDelegate, UITableViewDat
          performSegue(withIdentifier: "eventShowDetail", sender: nil)
     }
     
+    @IBAction func unwindToEventViewController(segue: UIStoryboardSegue) {
+        print("Unwind to Root View Controller")
+    }
     
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
        

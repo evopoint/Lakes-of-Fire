@@ -108,6 +108,9 @@ class CampViewController: UIViewController, UITableViewDelegate, UITableViewData
         performSegue(withIdentifier: "campShowDetail", sender: nil)
     }
 
+    @IBAction func unwindToCampViewController(segue: UIStoryboardSegue) {
+        print("Unwind to Root View Controller")
+    }
     
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
         
