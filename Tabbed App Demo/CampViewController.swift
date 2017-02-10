@@ -63,7 +63,7 @@ class CampViewController: UIViewController, UITableViewDelegate, UITableViewData
                 //               print(allEvents)
                 
                 
-                if let arrJSON = allCamps["Camps"] {
+                if let arrJSON = allCamps["Camps"] as? NSArray {
                     
                     
                     for index in 0...arrJSON.count-1 {

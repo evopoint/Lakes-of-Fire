@@ -99,7 +99,7 @@ class CampsDetailViewController: UIViewController {
                     //               print(allEvents)
                     
                     
-                    if let arrJSON = allEvents["Events"] {
+                    if let arrJSON = allEvents["Events"] as? NSArray {
                         
                         
                         for index in 0...arrJSON.count-1 {
