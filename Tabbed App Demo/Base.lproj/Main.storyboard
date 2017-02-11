@@ -450,7 +450,7 @@
         <!--Map-->
         <scene sceneID="Sxv-Ej-ap6">
             <objects>
-                <viewController id="jfD-Xb-Ofb" sceneMemberID="viewController">
+                <viewController id="jfD-Xb-Ofb" customClass="MapViewController" customModule="Tabbed_App_Demo" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="WJc-Ub-xmA"/>
                         <viewControllerLayoutGuide type="bottom" id="EOv-Iw-NS0"/>
@@ -465,6 +465,10 @@
                                     <navigationItem title="Map" id="RAJ-tY-5GY"/>
                                 </items>
                             </navigationBar>
+                            <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="LBX-Qq-Tuc">
+                                <rect key="frame" x="0.0" y="64" width="320" height="359"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </scrollView>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                         <constraints>
@@ -477,7 +481,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="bQv-mM-kI0" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="924" y="1933"/>
+            <point key="canvasLocation" x="922.5" y="1932.5"/>
         </scene>
         <!--Camps Detail View Controller-->
         <scene sceneID="AsA-wA-ask">

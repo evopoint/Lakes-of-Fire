@@ -9,6 +9,8 @@
 /* Begin PBXBuildFile section */
 		6322747C1E4EB26500E151BB /* LOF-Program2016-web.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 6322747B1E4EB26500E151BB /* LOF-Program2016-web.pdf */; };
 		6322747E1E4EB57600E151BB /* WWWViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6322747D1E4EB57600E151BB /* WWWViewController.swift */; };
+		632274801E4F6F9500E151BB /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6322747F1E4F6F9500E151BB /* MapViewController.swift */; };
+		632274821E4F717300E151BB /* LOF-Program2016-map.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 632274811E4F717300E151BB /* LOF-Program2016-map.jpg */; };
 		63330A481E33DC2E004DADF2 /* camps.json in Resources */ = {isa = PBXBuildFile; fileRef = 63330A471E33DC2E004DADF2 /* camps.json */; };
 		63330A4A1E33E2CA004DADF2 /* CampsDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63330A491E33E2CA004DADF2 /* CampsDetailViewController.swift */; };
 		637FC5221DC8EDD80008BEE2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 637FC5211DC8EDD80008BEE2 /* AppDelegate.swift */; };
@@ -29,6 +31,8 @@
 /* Begin PBXFileReference section */
 		6322747B1E4EB26500E151BB /* LOF-Program2016-web.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "LOF-Program2016-web.pdf"; sourceTree = "<group>"; };
 		6322747D1E4EB57600E151BB /* WWWViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WWWViewController.swift; sourceTree = "<group>"; };
+		6322747F1E4F6F9500E151BB /* MapViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
+		632274811E4F717300E151BB /* LOF-Program2016-map.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "LOF-Program2016-map.jpg"; path = "Tabbed App Demo/Assets.xcassets/LOF-Program2016-map.imageset/LOF-Program2016-map.jpg"; sourceTree = "<group>"; };
 		63330A471E33DC2E004DADF2 /* camps.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = camps.json; sourceTree = "<group>"; };
 		63330A491E33E2CA004DADF2 /* CampsDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CampsDetailViewController.swift; sourceTree = "<group>"; };
 		637FC51E1DC8EDD80008BEE2 /* Tabbed App Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Tabbed App Demo.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -70,6 +74,7 @@
 				6397DA871E1CB78A003A09D3 /* events2.json */,
 				63330A471E33DC2E004DADF2 /* camps.json */,
 				6322747B1E4EB26500E151BB /* LOF-Program2016-web.pdf */,
+				632274811E4F717300E151BB /* LOF-Program2016-map.jpg */,
 			);
 			sourceTree = "<group>";
 		};
@@ -92,6 +97,7 @@
 				63EA8F3B1E46509400DE5333 /* CampTableViewCell.swift */,
 				63330A491E33E2CA004DADF2 /* CampsDetailViewController.swift */,
 				6322747D1E4EB57600E151BB /* WWWViewController.swift */,
+				6322747F1E4F6F9500E151BB /* MapViewController.swift */,
 				637FC5271DC8EDD80008BEE2 /* Main.storyboard */,
 				637FC52A1DC8EDD80008BEE2 /* Assets.xcassets */,
 				637FC52C1DC8EDD80008BEE2 /* LaunchScreen.storyboard */,
@@ -160,6 +166,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				632274821E4F717300E151BB /* LOF-Program2016-map.jpg in Resources */,
 				63A3D30E1DC94BA700D653FC /* events.xml in Resources */,
 				637FC52E1DC8EDD80008BEE2 /* LaunchScreen.storyboard in Resources */,
 				63C27B2A1DCA92A900D49434 /* events.json in Resources */,
@@ -183,6 +190,7 @@
 				637FC5261DC8EDD80008BEE2 /* CampViewController.swift in Sources */,
 				63330A4A1E33E2CA004DADF2 /* CampsDetailViewController.swift in Sources */,
 				637FC5221DC8EDD80008BEE2 /* AppDelegate.swift in Sources */,
+				632274801E4F6F9500E151BB /* MapViewController.swift in Sources */,
 				639801971E46628F0008579C /* EventTableViewCell.swift in Sources */,
 				63EA8F3C1E46509400DE5333 /* CampTableViewCell.swift in Sources */,
 				6322747E1E4EB57600E151BB /* WWWViewController.swift in Sources */,
