@@ -12,9 +12,10 @@ class CampTableViewCell: UITableViewCell {
 
     
     
-    @IBOutlet weak var lblCampCell: UILabel!
+    @IBOutlet weak var lblCampTitle: UILabel!
+
     
-    @IBOutlet weak var lblCampDate: UILabel!
+    
     override func awakeFromNib() {
         super.awakeFromNib()
         // Initialization code

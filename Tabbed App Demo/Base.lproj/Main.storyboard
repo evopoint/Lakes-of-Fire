@@ -13,7 +13,7 @@
         <!--Events-->
         <scene sceneID="a67-BQ-llz">
             <objects>
-                <viewController title="Events" id="1Fz-7g-9Ce" customClass="FirstViewController" customModule="Tabbed_App_Demo" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController title="Events" id="1Fz-7g-9Ce" customClass="FirstViewController" customModule="Lakes_of_Fire" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="i6I-Wt-mgI"/>
                         <viewControllerLayoutGuide type="bottom" id="aha-Sw-7YB"/>
@@ -26,7 +26,7 @@
                                 <rect key="frame" x="0.0" y="72" width="320" height="359"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 <prototypes>
-                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="blue" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="eventCell" id="Tvt-Qb-CxW" customClass="EventTableViewCell" customModule="Tabbed_App_Demo" customModuleProvider="target">
+                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="blue" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="eventCell" id="Tvt-Qb-CxW" customClass="EventTableViewCell" customModule="Lakes_of_Fire" customModuleProvider="target">
                                         <rect key="frame" x="0.0" y="28" width="320" height="44"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="Tvt-Qb-CxW" id="x3O-ZQ-sYx">
@@ -100,7 +100,7 @@
         <!--Events Detail View Controller-->
         <scene sceneID="aFo-lO-moa">
             <objects>
-                <viewController id="khB-hj-8fE" customClass="EventsDetailViewController" customModule="Tabbed_App_Demo" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="khB-hj-8fE" customClass="EventsDetailViewController" customModule="Lakes_of_Fire" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="mtH-ku-YjR"/>
                         <viewControllerLayoutGuide type="bottom" id="dhJ-g8-yny"/>
@@ -286,7 +286,7 @@
         <!--Camps-->
         <scene sceneID="wg7-f3-ORb">
             <objects>
-                <viewController id="8rJ-Kc-sve" customClass="CampViewController" customModule="Tabbed_App_Demo" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="8rJ-Kc-sve" customClass="CampViewController" customModule="Lakes_of_Fire" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="L7p-HK-0SC"/>
                         <viewControllerLayoutGuide type="bottom" id="Djb-ko-YwX"/>
@@ -295,24 +295,11 @@
                         <rect key="frame" x="0.0" y="0.0" width="320" height="480"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" text="Second View" textAlignment="center" lineBreakMode="tailTruncation" minimumFontSize="10" translatesAutoresizingMaskIntoConstraints="NO" id="zEq-FU-wV5">
-                                <rect key="frame" x="55.5" y="219.5" width="209" height="41"/>
-                                <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                <fontDescription key="fontDescription" name="Helvetica" family="Helvetica" pointSize="36"/>
-                                <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
-                                <nil key="highlightedColor"/>
-                            </label>
-                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Loaded by SecondViewController" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="NDk-cv-Gan">
-                                <rect key="frame" x="52.5" y="268.5" width="215" height="17"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
-                                <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
-                                <nil key="highlightedColor"/>
-                            </label>
                             <tableView clipsSubviews="YES" contentMode="scaleToFill" misplaced="YES" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="lbM-2a-hXv">
                                 <rect key="frame" x="0.0" y="64" width="326" height="365"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 <prototypes>
-                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="blue" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="campCell" id="Mxd-dh-w9j" customClass="CampTableViewCell" customModule="Tabbed_App_Demo">
+                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="blue" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="campCell" id="Mxd-dh-w9j" customClass="CampTableViewCell" customModule="Lakes_of_Fire">
                                         <rect key="frame" x="0.0" y="28" width="326" height="44"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="Mxd-dh-w9j" id="woD-8i-CiY">
@@ -329,7 +316,7 @@
                                             </subviews>
                                         </tableViewCellContentView>
                                         <connections>
-                                            <outlet property="lblCampCell" destination="axc-ji-ZKx" id="q9c-id-Ohf"/>
+                                            <outlet property="lblCampTitle" destination="axc-ji-ZKx" id="b8C-dg-d6b"/>
                                         </connections>
                                     </tableViewCell>
                                 </prototypes>
@@ -357,14 +344,10 @@
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstAttribute="trailing" secondItem="lbM-2a-hXv" secondAttribute="trailing" id="0l5-OS-Moz"/>
-                            <constraint firstItem="NDk-cv-Gan" firstAttribute="top" secondItem="zEq-FU-wV5" secondAttribute="bottom" constant="8" symbolic="YES" id="Day-4N-Vmt"/>
                             <constraint firstItem="lbM-2a-hXv" firstAttribute="bottom" secondItem="QS5-Rx-YEW" secondAttribute="bottom" constant="-40" id="JFg-Qu-pp5"/>
-                            <constraint firstItem="NDk-cv-Gan" firstAttribute="centerX" secondItem="zEq-FU-wV5" secondAttribute="centerX" id="JgO-Fn-dHn"/>
                             <constraint firstItem="FcP-cR-YQd" firstAttribute="top" secondItem="L7p-HK-0SC" secondAttribute="bottom" id="XFm-J5-xPU"/>
                             <constraint firstAttribute="trailing" secondItem="FcP-cR-YQd" secondAttribute="trailing" id="ftt-KJ-T74"/>
                             <constraint firstItem="lbM-2a-hXv" firstAttribute="leading" secondItem="QS5-Rx-YEW" secondAttribute="leading" id="mDt-HT-3UD"/>
-                            <constraint firstAttribute="centerX" secondItem="zEq-FU-wV5" secondAttribute="centerX" id="qqM-NS-xev"/>
-                            <constraint firstAttribute="centerY" secondItem="zEq-FU-wV5" secondAttribute="centerY" id="qzY-Ky-pLD"/>
                             <constraint firstItem="FcP-cR-YQd" firstAttribute="leading" secondItem="QS5-Rx-YEW" secondAttribute="leading" id="y4A-vJ-fXN"/>
                             <constraint firstItem="lbM-2a-hXv" firstAttribute="top" secondItem="FcP-cR-YQd" secondAttribute="bottom" id="ynM-iq-vsL"/>
                         </constraints>
@@ -410,7 +393,7 @@
         <!--WWW-->
         <scene sceneID="l4M-LC-fOd">
             <objects>
-                <viewController id="p5C-Hz-aO6" customClass="WWWViewController" customModule="Tabbed_App_Demo" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="p5C-Hz-aO6" customClass="WWWViewController" customModule="Lakes_of_Fire" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="KWw-nE-mCk"/>
                         <viewControllerLayoutGuide type="bottom" id="LFb-rv-mI3"/>
@@ -453,7 +436,7 @@
         <!--Map-->
         <scene sceneID="Sxv-Ej-ap6">
             <objects>
-                <viewController id="jfD-Xb-Ofb" customClass="MapViewController" customModule="Tabbed_App_Demo" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="jfD-Xb-Ofb" customClass="MapViewController" customModule="Lakes_of_Fire" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="WJc-Ub-xmA"/>
                         <viewControllerLayoutGuide type="bottom" id="EOv-Iw-NS0"/>
@@ -489,7 +472,7 @@
         <!--Camps Detail View Controller-->
         <scene sceneID="AsA-wA-ask">
             <objects>
-                <viewController id="wqL-cp-26s" customClass="CampsDetailViewController" customModule="Tabbed_App_Demo" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="wqL-cp-26s" customClass="CampsDetailViewController" customModule="Lakes_of_Fire" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="Cug-xU-cYC"/>
                         <viewControllerLayoutGuide type="bottom" id="Op8-Er-mQg"/>

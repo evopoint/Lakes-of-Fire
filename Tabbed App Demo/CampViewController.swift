@@ -37,11 +37,10 @@ class CampViewController: UIViewController, UITableViewDelegate, UITableViewData
     public func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         
         let cell = tableView.dequeueReusableCell(withIdentifier: "campCell", for: indexPath) as! CampTableViewCell
-        
-            //  let cell = UITableViewCell(style: UITableViewCellStyle.default, reuseIdentifier: "campCell") as! CampTableViewCell
 
-        cell.lblCampCell!.text = camps[indexPath.row]
-   //c     call.lblCampDate!.text = camp
+                cell.lblCampTitle.text = camps[indexPath.row]
+        
+   //call.lblCampDate!.text = camp
         return cell
         
     }

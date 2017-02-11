@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "637FC51D1DC8EDD80008BEE2"
-               BuildableName = "Tabbed App Demo.app"
-               BlueprintName = "Tabbed App Demo"
-               ReferencedContainer = "container:Tabbed App Demo.xcodeproj">
+               BuildableName = "Lakes of Fire.app"
+               BlueprintName = "Lakes of Fire"
+               ReferencedContainer = "container:Lakes of Fire.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "637FC51D1DC8EDD80008BEE2"
-            BuildableName = "Tabbed App Demo.app"
-            BlueprintName = "Tabbed App Demo"
-            ReferencedContainer = "container:Tabbed App Demo.xcodeproj">
+            BuildableName = "Lakes of Fire.app"
+            BlueprintName = "Lakes of Fire"
+            ReferencedContainer = "container:Lakes of Fire.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "637FC51D1DC8EDD80008BEE2"
-            BuildableName = "Tabbed App Demo.app"
-            BlueprintName = "Tabbed App Demo"
-            ReferencedContainer = "container:Tabbed App Demo.xcodeproj">
+            BuildableName = "Lakes of Fire.app"
+            BlueprintName = "Lakes of Fire"
+            ReferencedContainer = "container:Lakes of Fire.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "637FC51D1DC8EDD80008BEE2"
-            BuildableName = "Tabbed App Demo.app"
-            BlueprintName = "Tabbed App Demo"
-            ReferencedContainer = "container:Tabbed App Demo.xcodeproj">
+            BuildableName = "Lakes of Fire.app"
+            BlueprintName = "Lakes of Fire"
+            ReferencedContainer = "container:Lakes of Fire.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

@@ -35,7 +35,7 @@
 		632274811E4F717300E151BB /* LOF-Program2016-map.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "LOF-Program2016-map.jpg"; path = "Tabbed App Demo/Assets.xcassets/LOF-Program2016-map.imageset/LOF-Program2016-map.jpg"; sourceTree = "<group>"; };
 		63330A471E33DC2E004DADF2 /* camps.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = camps.json; sourceTree = "<group>"; };
 		63330A491E33E2CA004DADF2 /* CampsDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CampsDetailViewController.swift; sourceTree = "<group>"; };
-		637FC51E1DC8EDD80008BEE2 /* Tabbed App Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Tabbed App Demo.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		637FC51E1DC8EDD80008BEE2 /* Lakes of Fire.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Lakes of Fire.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		637FC5211DC8EDD80008BEE2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		637FC5231DC8EDD80008BEE2 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
 		637FC5251DC8EDD80008BEE2 /* CampViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CampViewController.swift; sourceTree = "<group>"; };
@@ -66,7 +66,7 @@
 		637FC5151DC8EDD80008BEE2 = {
 			isa = PBXGroup;
 			children = (
-				637FC5201DC8EDD80008BEE2 /* Tabbed App Demo */,
+				637FC5201DC8EDD80008BEE2 /* Lakes of Fire */,
 				637FC51F1DC8EDD80008BEE2 /* Products */,
 				637FC5351DC919DB0008BEE2 /* Andrew-Miller-4-940x960.jpg */,
 				63A3D30D1DC94BA700D653FC /* events.xml */,
@@ -81,12 +81,12 @@
 		637FC51F1DC8EDD80008BEE2 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				637FC51E1DC8EDD80008BEE2 /* Tabbed App Demo.app */,
+				637FC51E1DC8EDD80008BEE2 /* Lakes of Fire.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		637FC5201DC8EDD80008BEE2 /* Tabbed App Demo */ = {
+		637FC5201DC8EDD80008BEE2 /* Lakes of Fire */ = {
 			isa = PBXGroup;
 			children = (
 				637FC5211DC8EDD80008BEE2 /* AppDelegate.swift */,
@@ -103,15 +103,16 @@
 				637FC52C1DC8EDD80008BEE2 /* LaunchScreen.storyboard */,
 				637FC52F1DC8EDD80008BEE2 /* Info.plist */,
 			);
+			name = "Lakes of Fire";
 			path = "Tabbed App Demo";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		637FC51D1DC8EDD80008BEE2 /* Tabbed App Demo */ = {
+		637FC51D1DC8EDD80008BEE2 /* Lakes of Fire */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 637FC5321DC8EDD80008BEE2 /* Build configuration list for PBXNativeTarget "Tabbed App Demo" */;
+			buildConfigurationList = 637FC5321DC8EDD80008BEE2 /* Build configuration list for PBXNativeTarget "Lakes of Fire" */;
 			buildPhases = (
 				637FC51A1DC8EDD80008BEE2 /* Sources */,
 				637FC51B1DC8EDD80008BEE2 /* Frameworks */,
@@ -121,9 +122,9 @@
 			);
 			dependencies = (
 			);
-			name = "Tabbed App Demo";
+			name = "Lakes of Fire";
 			productName = "Tabbed App Demo";
-			productReference = 637FC51E1DC8EDD80008BEE2 /* Tabbed App Demo.app */;
+			productReference = 637FC51E1DC8EDD80008BEE2 /* Lakes of Fire.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -143,7 +144,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 637FC5191DC8EDD80008BEE2 /* Build configuration list for PBXProject "Tabbed App Demo" */;
+			buildConfigurationList = 637FC5191DC8EDD80008BEE2 /* Build configuration list for PBXProject "Lakes of Fire" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -156,7 +157,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				637FC51D1DC8EDD80008BEE2 /* Tabbed App Demo */,
+				637FC51D1DC8EDD80008BEE2 /* Lakes of Fire */,
 			);
 		};
 /* End PBXProject section */
@@ -344,7 +345,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		637FC5191DC8EDD80008BEE2 /* Build configuration list for PBXProject "Tabbed App Demo" */ = {
+		637FC5191DC8EDD80008BEE2 /* Build configuration list for PBXProject "Lakes of Fire" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				637FC5301DC8EDD80008BEE2 /* Debug */,
@@ -353,7 +354,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		637FC5321DC8EDD80008BEE2 /* Build configuration list for PBXNativeTarget "Tabbed App Demo" */ = {
+		637FC5321DC8EDD80008BEE2 /* Build configuration list for PBXNativeTarget "Lakes of Fire" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				637FC5331DC8EDD80008BEE2 /* Debug */,
