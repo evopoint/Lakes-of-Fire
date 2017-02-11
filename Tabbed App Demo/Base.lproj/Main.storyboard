@@ -419,9 +419,8 @@
                         <rect key="frame" x="0.0" y="0.0" width="320" height="480"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <webView contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Hwk-yS-OuF">
+                            <webView contentMode="scaleToFill" scalesPageToFit="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Hwk-yS-OuF">
                                 <rect key="frame" x="0.0" y="64" width="320" height="367"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="0.36078431370000003" green="0.38823529410000002" blue="0.4039215686" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             </webView>
                             <navigationBar contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="S41-6M-fEW">
@@ -433,8 +432,12 @@
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                         <constraints>
+                            <constraint firstItem="LFb-rv-mI3" firstAttribute="top" secondItem="Hwk-yS-OuF" secondAttribute="bottom" id="5zd-L0-z6r"/>
+                            <constraint firstAttribute="trailing" secondItem="Hwk-yS-OuF" secondAttribute="trailing" id="H4b-J5-OaM"/>
                             <constraint firstItem="S41-6M-fEW" firstAttribute="leading" secondItem="6Ng-kt-H4c" secondAttribute="leading" id="JkX-L4-kLO"/>
+                            <constraint firstItem="Hwk-yS-OuF" firstAttribute="top" secondItem="S41-6M-fEW" secondAttribute="bottom" id="QKx-3I-oKd"/>
                             <constraint firstAttribute="trailing" secondItem="S41-6M-fEW" secondAttribute="trailing" id="d2V-H7-Kfd"/>
+                            <constraint firstItem="Hwk-yS-OuF" firstAttribute="leading" secondItem="6Ng-kt-H4c" secondAttribute="leading" id="fGe-Z4-5AF"/>
                             <constraint firstItem="S41-6M-fEW" firstAttribute="top" secondItem="KWw-nE-mCk" secondAttribute="bottom" id="pXN-Xd-iLv"/>
                         </constraints>
                     </view>
@@ -466,7 +469,7 @@
                                 </items>
                             </navigationBar>
                             <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="LBX-Qq-Tuc">
-                                <rect key="frame" x="0.0" y="64" width="320" height="359"/>
+                                <rect key="frame" x="0.0" y="64" width="320" height="367"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </scrollView>
                         </subviews>
