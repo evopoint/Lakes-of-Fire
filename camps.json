@@ -1,29 +1,74 @@
 {
 "Camps": [
  {
-   "Location": "Camp Bike and Brews",
+   "Location": "A porta potty near you",
+   "SiteId": "",
+   "HumanLocation": "A porta potty near you"
+ },
+ {
+   "Location": "All over Lakes! Participating theme camps",
+   "SiteId": "",
+   "HumanLocation": "All over Lakes! Participating theme camps"
+ },
+ {
+   "Location": "At the DMV",
+   "SiteId": "",
+   "HumanLocation": "At the DMV"
+ },
+ {
+   "Location": "BBB (Burning Belgian Beer)",
+   "SiteId": "",
+   "HumanLocation": "BBB (Burning Belgian Beer)"
+ },
+ {
+   "Location": "Beach Front",
+   "SiteId": "",
+   "HumanLocation": "Beach Front"
+ },
+ {
+   "Location": "Big Island Tiki Bar (Beach)",
+   "SiteId": "93",
+   "HumanLocation": "Big Island Tiki Bar (Beach) | Site 93"
+ },
+ {
+   "Location": "Bikes and Brews",
    "SiteId": "K1",
-   "HumanLocation": "Camp Bike and Brews | Site K1"
+   "HumanLocation": "Bikes and Brews | Site K1"
  },
  {
-   "Location": "Camp Make Believe",
-   "SiteId": "61",
-   "HumanLocation": "Camp Make Believe | Site 61"
+   "Location": "Bubbles and Stripes",
+   "SiteId": "106",
+   "HumanLocation": "Bubbles and Stripes | Site 106"
  },
  {
-   "Location": "Camp Natural Wonder - Temple",
-   "SiteId": "15",
-   "HumanLocation": "Camp Natural Wonder - Temple | Site 15"
+   "Location": "Camp Air Burn~n~Burn",
+   "SiteId": "57",
+   "HumanLocation": "Camp Air Burn~n~Burn | Site 57"
  },
  {
-   "Location": "Camp Natural Wonder - Wonderland Play Yard",
-   "SiteId": "15",
-   "HumanLocation": "Camp Natural Wonder - Wonderland Play Yard | Site 15"
+   "Location": "Camp Burnlesque",
+   "SiteId": "95",
+   "HumanLocation": "Camp Burnlesque | Site 95"
  },
  {
-   "Location": "Camp Natural Wonder - Yoga Beach",
-   "SiteId": "15",
-   "HumanLocation": "Camp Natural Wonder - Yoga Beach | Site 15"
+   "Location": "Camp Djibouti",
+   "SiteId": "K12",
+   "HumanLocation": "Camp Djibouti | Site K12"
+ },
+ {
+   "Location": "Camp Heartburn",
+   "SiteId": "55",
+   "HumanLocation": "Camp Heartburn | Site 55"
+ },
+ {
+   "Location": "Camp Natural Wonder",
+   "SiteId": "13",
+   "HumanLocation": "Camp Natural Wonder | Site 13"
+ },
+ {
+   "Location": "Camp Natural Wonder's Temple",
+   "SiteId": "13",
+   "HumanLocation": "Camp Natural Wonder's Temple | Site 13"
  },
  {
    "Location": "Camp One More Thing",
@@ -31,334 +76,9 @@
    "HumanLocation": "Camp One More Thing | Site 118"
  },
  {
-   "Location": "Canned Ham Camp",
-   "SiteId": "43",
-   "HumanLocation": "Canned Ham Camp | Site 43"
- },
- {
-   "Location": "dcbbq",
-   "SiteId": "A",
-   "HumanLocation": "dcbbq | Site A"
- },
- {
-   "Location": "Deep Mysteries Teahouse",
-   "SiteId": "123",
-   "HumanLocation": "Deep Mysteries Teahouse | Site 123"
- },
- {
-   "Location": "DPW Boondocks",
-   "SiteId": "140",
-   "HumanLocation": "DPW Boondocks | Site 140"
- },
- {
-   "Location": "DPW Saloon",
-   "SiteId": "140",
-   "HumanLocation": "DPW Saloon | Site 140"
- },
- {
-   "Location": "Fire Water Lounge - Look for the Detour Sign",
-   "SiteId": "B",
-   "HumanLocation": "Fire Water Lounge - Look for the Detour Sign | Site B"
- },
- {
-   "Location": "Gothee Soir�e",
-   "SiteId": "94",
-   "HumanLocation": "Gothee Soir�e | Site 94"
- },
- {
-   "Location": "Green Dragon Lounge",
-   "SiteId": "87",
-   "HumanLocation": "Green Dragon Lounge | Site 87"
- },
- {
-   "Location": "Kernel Bar next to the Shot Clinic",
-   "SiteId": "105",
-   "HumanLocation": "Kernel Bar next to the Shot Clinic | Site 105"
- },
- {
-   "Location": "Kidsville",
-   "SiteId": "Near Keyhole",
-   "HumanLocation": "Kidsville | Site Near Keyhole"
- },
- {
-   "Location": "Me & You & Everyone We Know",
-   "SiteId": "24",
-   "HumanLocation": "Me & You & Everyone We Know | Site 24"
- },
- {
-   "Location": "Moofi Habitat",
-   "SiteId": "90",
-   "HumanLocation": "Moofi Habitat | Site 90"
- },
- {
-   "Location": "Radio SGC 103.3",
-   "SiteId": "63",
-   "HumanLocation": "Radio SGC 103.3 | Site 63"
- },
- {
-   "Location": "Ranger HQ",
-   "SiteId": "48",
-   "HumanLocation": "Ranger HQ | Site 48"
- },
- {
-   "Location": "Sorr'eh Bar",
-   "SiteId": "40",
-   "HumanLocation": "Sorr'eh Bar | Site 40"
- },
- {
-   "Location": "The Consortium of Indigent Mythological Creatures and Imaginary Bunnies.",
-   "SiteId": "9",
-   "HumanLocation": "The Consortium of Indigent Mythological Creatures and Imaginary Bunnies. | Site 9"
- },
- {
-   "Location": "The Garden of Earthly Delights",
-   "SiteId": "102",
-   "HumanLocation": "The Garden of Earthly Delights | Site 102"
- },
- {
-   "Location": "The Huggery",
-   "SiteId": "107",
-   "HumanLocation": "The Huggery | Site 107"
- },
- {
-   "Location": "The Shot Clinic",
-   "SiteId": "105",
-   "HumanLocation": "The Shot Clinic | Site 105"
- },
- {
-   "Location": "The Van Family Camp",
-   "SiteId": "81",
-   "HumanLocation": "The Van Family Camp | Site 81"
- },
- {
-   "Location": "Tiny Tick Town",
-   "SiteId": "1",
-   "HumanLocation": "Tiny Tick Town | Site 1"
- },
- {
-   "Location": "Top of the Fort!",
-   "SiteId": "97",
-   "HumanLocation": "Top of the Fort! | Site 97"
- },
- {
-   "Location": "Radio SGC 103.3",
-   "SiteId": "63",
-   "HumanLocation": "Radio SGC 103.3 | Site 63"
- },
- {
-   "Location": "dcbbq",
-   "SiteId": "A",
-   "HumanLocation": "dcbbq | Site A"
- },
- {
-   "Location": "Camp Bike and Brews",
-   "SiteId": "K1",
-   "HumanLocation": "Camp Bike and Brews | Site K1"
- },
- {
-   "Location": "Canned Ham Camp",
-   "SiteId": "43",
-   "HumanLocation": "Canned Ham Camp | Site 43"
- },
- {
-   "Location": "Camp Make Believe",
-   "SiteId": "61",
-   "HumanLocation": "Camp Make Believe | Site 61"
- },
- {
-   "Location": "Deep Mysteries Teahouse",
-   "SiteId": "123",
-   "HumanLocation": "Deep Mysteries Teahouse | Site 123"
- },
- {
-   "Location": "The Van Family Camp",
-   "SiteId": "81",
-   "HumanLocation": "The Van Family Camp | Site 81"
- },
- {
-   "Location": "DPW Saloon",
-   "SiteId": "140",
-   "HumanLocation": "DPW Saloon | Site 140"
- },
- {
-   "Location": "Top of the Fort!",
-   "SiteId": "97",
-   "HumanLocation": "Top of the Fort! | Site 97"
- },
- {
-   "Location": "Art Hub",
-   "SiteId": "",
-   "HumanLocation": "Art Hub"
- },
- {
-   "Location": "Green Dragon Lounge",
-   "SiteId": "87",
-   "HumanLocation": "Green Dragon Lounge | Site 87"
- },
- {
-   "Location": "Camp One More Thing",
-   "SiteId": "118",
-   "HumanLocation": "Camp One More Thing | Site 118"
- },
- {
-   "Location": "VALHALLA!",
-   "SiteId": "30",
-   "HumanLocation": "VALHALLA! | Site 30"
- },
- {
-   "Location": "Lux Ephemera | Site 85",
-   "SiteId": "",
-   "HumanLocation": "Lux Ephemera | Site 85"
- },
- {
-   "Location": "Art in a Porto",
-   "SiteId": "",
-   "HumanLocation": "Art in a Porto"
- },
- {
-   "Location": "Radio SGC 103.3",
-   "SiteId": "63",
-   "HumanLocation": "Radio SGC 103.3 | Site 63"
- },
- {
-   "Location": "Camp Bike and Brews",
-   "SiteId": "K1",
-   "HumanLocation": "Camp Bike and Brews | Site K1"
- },
- {
-   "Location": "Fire Water Lounge - Look for the Detour Sign",
-   "SiteId": "B",
-   "HumanLocation": "Fire Water Lounge - Look for the Detour Sign | Site B"
- },
- {
-   "Location": "The Garden of Earthly Delights",
-   "SiteId": "102",
-   "HumanLocation": "The Garden of Earthly Delights | Site 102"
- },
- {
-   "Location": "Camp Natural Wonder - Temple",
-   "SiteId": "15",
-   "HumanLocation": "Camp Natural Wonder - Temple | Site 15"
- },
- {
-   "Location": "The Huggery",
-   "SiteId": "107",
-   "HumanLocation": "The Huggery | Site 107"
- },
- {
-   "Location": "The Consortium of Indigent Mythological Creatures and Imaginary Bunnies.",
-   "SiteId": "9",
-   "HumanLocation": "The Consortium of Indigent Mythological Creatures and Imaginary Bunnies. | Site 9"
- },
- {
-   "Location": "Somewhere, Sometime",
-   "SiteId": "",
-   "HumanLocation": "Somewhere, Sometime"
- },
- {
-   "Location": "Camp Make Believe",
-   "SiteId": "61",
-   "HumanLocation": "Camp Make Believe | Site 61"
- },
- {
-   "Location": "Camp Heartburn",
-   "SiteId": "2",
-   "HumanLocation": "Camp Heartburn | Site 2"
- },
- {
-   "Location": "The Van Family Camp",
-   "SiteId": "81",
-   "HumanLocation": "The Van Family Camp | Site 81"
- },
- {
-   "Location": "Camp Natural Wonder - Wonderland Play Yard",
-   "SiteId": "15",
-   "HumanLocation": "Camp Natural Wonder - Wonderland Play Yard | Site 15"
- },
- {
-   "Location": "Camp Make Believe",
-   "SiteId": "61",
-   "HumanLocation": "Camp Make Believe | Site 61"
- },
- {
-   "Location": "Radio SGC 103.3",
-   "SiteId": "63",
-   "HumanLocation": "Radio SGC 103.3 | Site 63"
- },
- {
-   "Location": "Camp Natural Wonder - Yoga Beach",
-   "SiteId": "15",
-   "HumanLocation": "Camp Natural Wonder - Yoga Beach | Site 15"
- },
- {
-   "Location": "Ranger HQ",
-   "SiteId": "48",
-   "HumanLocation": "Ranger HQ | Site 48"
- },
- {
-   "Location": "Koffee Up",
-   "SiteId": "52",
-   "HumanLocation": "Koffee Up | Site 52"
- },
- {
-   "Location": "Radio SGC 103.3",
-   "SiteId": "63",
-   "HumanLocation": "Radio SGC 103.3 | Site 63"
- },
- {
-   "Location": "Radio SGC 103.3",
-   "SiteId": "63",
-   "HumanLocation": "Radio SGC 103.3 | Site 63"
- },
- {
-   "Location": "No Drama Pancake House",
-   "SiteId": "56",
-   "HumanLocation": "No Drama Pancake House | Site 56"
- },
- {
-   "Location": "Camp Heartburn",
-   "SiteId": "2",
-   "HumanLocation": "Camp Heartburn | Site 2"
- },
- {
-   "Location": "Syncytium",
-   "SiteId": "4",
-   "HumanLocation": "Syncytium | Site 4"
- },
- {
-   "Location": "Effigy Peninsula",
-   "SiteId": "",
-   "HumanLocation": "Effigy Peninsula"
- },
- {
-   "Location": "Green Dragon Lounge",
-   "SiteId": "87",
-   "HumanLocation": "Green Dragon Lounge | Site 87"
- },
- {
-   "Location": "Camp Pleasure",
-   "SiteId": "Z1",
-   "HumanLocation": "Camp Pleasure | Site Z1"
- },
- {
-   "Location": "Camp Rejuvenation",
-   "SiteId": "K5",
-   "HumanLocation": "Camp Rejuvenation | Site K5"
- },
- {
-   "Location": "Syncytium",
-   "SiteId": "4",
-   "HumanLocation": "Syncytium | Site 4"
- },
- {
-   "Location": "Sensation Station",
-   "SiteId": "K2",
-   "HumanLocation": "Sensation Station | Site K2"
- },
- {
-   "Location": "dcbbq",
-   "SiteId": "A",
-   "HumanLocation": "dcbbq | Site A"
+   "Location": "Camp Pleasure / Camp Safehouse",
+   "SiteId": "F",
+   "HumanLocation": "Camp Pleasure / Camp Safehouse | Site F"
  },
  {
    "Location": "Camp Recharge",
@@ -366,224 +86,84 @@
    "HumanLocation": "Camp Recharge | Site 8"
  },
  {
-   "Location": "The Playground",
-   "SiteId": "",
-   "HumanLocation": "The Playground"
+   "Location": "Camp Spritz",
+   "SiteId": "K21",
+   "HumanLocation": "Camp Spritz | Site K21"
  },
  {
-   "Location": "Syncytium",
-   "SiteId": "4",
-   "HumanLocation": "Syncytium | Site 4"
+   "Location": "Canned Ham Camp",
+   "SiteId": "44",
+   "HumanLocation": "Canned Ham Camp | Site 44"
  },
  {
-   "Location": "Don's Trailer",
-   "SiteId": "",
-   "HumanLocation": "Don's Trailer"
+   "Location": "Capn Nemo's Flaming Carnival",
+   "SiteId": "125",
+   "HumanLocation": "Capn Nemo's Flaming Carnival | Site 125"
  },
  {
-   "Location": "Kidsville",
-   "SiteId": "Near Keyhole",
-   "HumanLocation": "Kidsville | Site Near Keyhole"
+   "Location": "Coffee Up Camp",
+   "SiteId": "52",
+   "HumanLocation": "Coffee Up Camp | Site 52"
  },
  {
-   "Location": "Camp Natural Wonder - Lily Pad Lagoon",
-   "SiteId": "15",
-   "HumanLocation": "Camp Natural Wonder - Lily Pad Lagoon | Site 15"
+   "Location": "Copycats Costume Camp",
+   "SiteId": "10",
+   "HumanLocation": "Copycats Costume Camp | Site 10"
  },
  {
-   "Location": "Camp Pleasure",
-   "SiteId": "Z1",
-   "HumanLocation": "Camp Pleasure | Site Z1"
+   "Location": "Crystal Castle (Jurassic Mushroom Garden)",
+   "SiteId": "7",
+   "HumanLocation": "Crystal Castle (Jurassic Mushroom Garden) | Site 7"
+ },
+ {
+   "Location": "Cult of Janky",
+   "SiteId": "70",
+   "HumanLocation": "Cult of Janky | Site 70"
  },
  {
    "Location": "Deep Mysteries Teahouse",
-   "SiteId": "123",
-   "HumanLocation": "Deep Mysteries Teahouse | Site 123"
+   "SiteId": "85",
+   "HumanLocation": "Deep Mysteries Teahouse | Site 85"
  },
  {
-   "Location": "Jurassic Mushroom Garden",
-   "SiteId": "7",
-   "HumanLocation": "Jurassic Mushroom Garden | Site 7"
+   "Location": "Dino Dome",
+   "SiteId": "K20",
+   "HumanLocation": "Dino Dome | Site K20"
  },
  {
-   "Location": "Syncytium",
-   "SiteId": "4",
-   "HumanLocation": "Syncytium | Site 4"
+   "Location": "Dive Bar",
+   "SiteId": "53",
+   "HumanLocation": "Dive Bar | Site 53"
  },
  {
-   "Location": "The Van Family Camp",
-   "SiteId": "81",
-   "HumanLocation": "The Van Family Camp | Site 81"
- },
- {
-   "Location": "dcbbq",
-   "SiteId": "A",
-   "HumanLocation": "dcbbq | Site A"
- },
- {
-   "Location": "Sensation Station",
-   "SiteId": "K2",
-   "HumanLocation": "Sensation Station | Site K2"
- },
- {
-   "Location": "Stay at Home Ravers",
-   "SiteId": "59",
-   "HumanLocation": "Stay at Home Ravers | Site 59"
- },
- {
-   "Location": "Green Dragon Lounge",
-   "SiteId": "87",
-   "HumanLocation": "Green Dragon Lounge | Site 87"
- },
- {
-   "Location": "Camp Natural Wonder - Temple",
-   "SiteId": "15",
-   "HumanLocation": "Camp Natural Wonder - Temple | Site 15"
- },
- {
-   "Location": "Camp Natural Wonder - Unicorn's Subconscious",
-   "SiteId": "15",
-   "HumanLocation": "Camp Natural Wonder - Unicorn's Subconscious | Site 15"
- },
- {
-   "Location": "Open camping",
+   "Location": "Eggify",
    "SiteId": "",
-   "HumanLocation": "Open camping"
+   "HumanLocation": "Eggify"
  },
  {
-   "Location": "The Secret Gentlemen's Club",
-   "SiteId": "63",
-   "HumanLocation": "The Secret Gentlemen's Club | Site 63"
- },
- {
-   "Location": "Syncytium",
-   "SiteId": "4",
-   "HumanLocation": "Syncytium | Site 4"
- },
- {
-   "Location": "Mobile",
+   "Location": "Fire Dome (on the lake)",
    "SiteId": "",
-   "HumanLocation": "Mobile"
+   "HumanLocation": "Fire Dome (on the lake)"
  },
  {
-   "Location": "Radio SGC 103.3",
-   "SiteId": "63",
-   "HumanLocation": "Radio SGC 103.3 | Site 63"
- },
- {
-   "Location": "Moofi Habitat",
-   "SiteId": "90",
-   "HumanLocation": "Moofi Habitat | Site 90"
- },
- {
-   "Location": "Gothee Soir�e",
-   "SiteId": "94",
-   "HumanLocation": "Gothee Soir�e | Site 94"
- },
- {
-   "Location": "Camp Pleasure",
-   "SiteId": "Z1",
-   "HumanLocation": "Camp Pleasure | Site Z1"
- },
- {
-   "Location": "Camp Natural Wonder",
-   "SiteId": "15",
-   "HumanLocation": "Camp Natural Wonder | Site 15"
- },
- {
-   "Location": "Camp Boogey",
-   "SiteId": "13",
-   "HumanLocation": "Camp Boogey | Site 13"
- },
- {
-   "Location": "Follow the Clues to Find Out :)",
-   "SiteId": "",
-   "HumanLocation": "Follow the Clues to Find Out :)"
- },
- {
-   "Location": "Camp Natural Wonder - Unicorn's Subconscious",
-   "SiteId": "15",
-   "HumanLocation": "Camp Natural Wonder - Unicorn's Subconscious | Site 15"
- },
- {
-   "Location": "Burnlesque",
-   "SiteId": "76",
-   "HumanLocation": "Burnlesque | Site 76"
- },
- {
-   "Location": "Syncytium",
-   "SiteId": "4",
-   "HumanLocation": "Syncytium | Site 4"
- },
- {
-   "Location": "Pick Dickle",
-   "SiteId": "11",
-   "HumanLocation": "Pick Dickle | Site 11"
- },
- {
-   "Location": "Fire Water Lounge",
+   "Location": "Firewater Lounge",
    "SiteId": "B",
-   "HumanLocation": "Fire Water Lounge | Site B"
+   "HumanLocation": "Firewater Lounge | Site B"
  },
  {
-   "Location": "Gothee Soir�e",
-   "SiteId": "94",
-   "HumanLocation": "Gothee Soir�e | Site 94"
+   "Location": "Garden of Recycled Dreams",
+   "SiteId": "102",
+   "HumanLocation": "Garden of Recycled Dreams | Site 102"
  },
  {
-   "Location": "Midwest CORE",
-   "SiteId": "134",
-   "HumanLocation": "Midwest CORE | Site 134"
+   "Location": "Gothee House",
+   "SiteId": "30",
+   "HumanLocation": "Gothee House | Site 30"
  },
  {
-   "Location": "Radio SGC 103.3",
-   "SiteId": "63",
-   "HumanLocation": "Radio SGC 103.3 | Site 63"
- },
- {
-   "Location": "Tiny Tick Town",
-   "SiteId": "1",
-   "HumanLocation": "Tiny Tick Town | Site 1"
- },
- {
-   "Location": "Syncytium",
-   "SiteId": "4",
-   "HumanLocation": "Syncytium | Site 4"
- },
- {
-   "Location": "DrinknStitch",
-   "SiteId": "108",
-   "HumanLocation": "DrinknStitch | Site 108"
- },
- {
-   "Location": "Moofi Habitat",
-   "SiteId": "90",
-   "HumanLocation": "Moofi Habitat | Site 90"
- },
- {
-   "Location": "DPW Stage",
-   "SiteId": "140",
-   "HumanLocation": "DPW Stage | Site 140"
- },
- {
-   "Location": "Me & You & Everyone We Know",
-   "SiteId": "24",
-   "HumanLocation": "Me & You & Everyone We Know | Site 24"
- },
- {
-   "Location": "Burnlesque",
-   "SiteId": "76",
-   "HumanLocation": "Burnlesque | Site 76"
- },
- {
-   "Location": "Me & You & Everyone We Know",
-   "SiteId": "24",
-   "HumanLocation": "Me & You & Everyone We Know | Site 24"
- },
- {
-   "Location": "Syncytium",
-   "SiteId": "4",
-   "HumanLocation": "Syncytium | Site 4"
+   "Location": "Green Dragon lounge",
+   "SiteId": "78",
+   "HumanLocation": "Green Dragon lounge | Site 78"
  },
  {
    "Location": "Greeters Station",
@@ -591,1209 +171,124 @@
    "HumanLocation": "Greeters Station"
  },
  {
-   "Location": "Kidsville",
-   "SiteId": "Near Keyhole",
-   "HumanLocation": "Kidsville | Site Near Keyhole"
- },
- {
-   "Location": "Camp Natural Wonder - Temple",
-   "SiteId": "15",
-   "HumanLocation": "Camp Natural Wonder - Temple | Site 15"
- },
- {
-   "Location": "Green Dragon Lounge",
-   "SiteId": "87",
-   "HumanLocation": "Green Dragon Lounge | Site 87"
- },
- {
-   "Location": "dcbbq",
-   "SiteId": "A",
-   "HumanLocation": "dcbbq | Site A"
- },
- {
-   "Location": "Kernel Bar next to the Shot Clinic",
-   "SiteId": "105",
-   "HumanLocation": "Kernel Bar next to the Shot Clinic | Site 105"
- },
- {
-   "Location": "The Shot Clinic",
-   "SiteId": "105",
-   "HumanLocation": "The Shot Clinic | Site 105"
- },
- {
-   "Location": "Sorr'eh Bar",
-   "SiteId": "40",
-   "HumanLocation": "Sorr'eh Bar | Site 40"
- },
- {
-   "Location": "Camp Natural Wonder - Lily Pad Lagoon",
-   "SiteId": "15",
-   "HumanLocation": "Camp Natural Wonder - Lily Pad Lagoon | Site 15"
- },
- {
-   "Location": "Follow the Clues to Find Out :)",
+   "Location": "Gypsy Camp",
    "SiteId": "",
-   "HumanLocation": "Follow the Clues to Find Out :)"
+   "HumanLocation": "Gypsy Camp"
  },
  {
-   "Location": "Radio SGC 103.3",
-   "SiteId": "63",
-   "HumanLocation": "Radio SGC 103.3 | Site 63"
+   "Location": "Hullabaloo Village",
+   "SiteId": "100",
+   "HumanLocation": "Hullabaloo Village | Site 100"
  },
  {
-   "Location": "Walk-Through Faerieshrine",
-   "SiteId": "",
-   "HumanLocation": "Walk-Through Faerieshrine"
- },
- {
-   "Location": "Effigy Peninsula",
-   "SiteId": "",
-   "HumanLocation": "Effigy Peninsula"
- },
- {
-   "Location": "Sorr'eh Bar",
-   "SiteId": "40",
-   "HumanLocation": "Sorr'eh Bar | Site 40"
- },
- {
-   "Location": "Huxley University",
-   "SiteId": "89",
-   "HumanLocation": "Huxley University | Site 89"
- },
- {
-   "Location": "DPW Saloon",
-   "SiteId": "140",
-   "HumanLocation": "DPW Saloon | Site 140"
- },
- {
-   "Location": "Camp Recharge",
-   "SiteId": "8",
-   "HumanLocation": "Camp Recharge | Site 8"
- },
- {
-   "Location": "Videogasm",
-   "SiteId": "72",
-   "HumanLocation": "Videogasm | Site 72"
- },
- {
-   "Location": "Radio SGC 103.3",
-   "SiteId": "63",
-   "HumanLocation": "Radio SGC 103.3 | Site 63"
- },
- {
-   "Location": "Camp Natural Wonder - Unicorn's Subconscious",
-   "SiteId": "15",
-   "HumanLocation": "Camp Natural Wonder - Unicorn's Subconscious | Site 15"
- },
- {
-   "Location": "DPW Stage",
-   "SiteId": "140",
-   "HumanLocation": "DPW Stage | Site 140"
- },
- {
-   "Location": "Radio SGC 103.3",
-   "SiteId": "63",
-   "HumanLocation": "Radio SGC 103.3 | Site 63"
- },
- {
-   "Location": "dcbbq",
-   "SiteId": "A",
-   "HumanLocation": "dcbbq | Site A"
- },
- {
-   "Location": "Camp Bike and Brews",
-   "SiteId": "K1",
-   "HumanLocation": "Camp Bike and Brews | Site K1"
- },
- {
-   "Location": "Canned Ham Camp",
-   "SiteId": "43",
-   "HumanLocation": "Canned Ham Camp | Site 43"
- },
- {
-   "Location": "Camp Make Believe",
-   "SiteId": "61",
-   "HumanLocation": "Camp Make Believe | Site 61"
- },
- {
-   "Location": "Deep Mysteries Teahouse",
-   "SiteId": "123",
-   "HumanLocation": "Deep Mysteries Teahouse | Site 123"
- },
- {
-   "Location": "The Van Family Camp",
-   "SiteId": "81",
-   "HumanLocation": "The Van Family Camp | Site 81"
- },
- {
-   "Location": "DPW Saloon",
-   "SiteId": "140",
-   "HumanLocation": "DPW Saloon | Site 140"
- },
- {
-   "Location": "Top of the Fort!",
-   "SiteId": "97",
-   "HumanLocation": "Top of the Fort! | Site 97"
- },
- {
-   "Location": "Art Hub",
-   "SiteId": "",
-   "HumanLocation": "Art Hub"
- },
- {
-   "Location": "Green Dragon Lounge",
-   "SiteId": "87",
-   "HumanLocation": "Green Dragon Lounge | Site 87"
- },
- {
-   "Location": "Camp One More Thing",
-   "SiteId": "118",
-   "HumanLocation": "Camp One More Thing | Site 118"
- },
- {
-   "Location": "VALHALLA!",
-   "SiteId": "30",
-   "HumanLocation": "VALHALLA! | Site 30"
- },
- {
-   "Location": "Lux Ephemera | Site 85",
-   "SiteId": "",
-   "HumanLocation": "Lux Ephemera | Site 85"
- },
- {
-   "Location": "Follow the Clues to Find Out :)",
-   "SiteId": "",
-   "HumanLocation": "Follow the Clues to Find Out :)"
- },
- {
-   "Location": "Follow the Clues to Find Out :)",
-   "SiteId": "",
-   "HumanLocation": "Follow the Clues to Find Out :)"
- },
- {
-   "Location": "Wandering",
-   "SiteId": "",
-   "HumanLocation": "Wandering"
- },
- {
-   "Location": "Art in a Porto",
-   "SiteId": "",
-   "HumanLocation": "Art in a Porto"
- },
- {
-   "Location": "Radio SGC 103.3",
-   "SiteId": "63",
-   "HumanLocation": "Radio SGC 103.3 | Site 63"
- },
- {
-   "Location": "Camp Bike and Brews",
-   "SiteId": "K1",
-   "HumanLocation": "Camp Bike and Brews | Site K1"
- },
- {
-   "Location": "Fire Water Lounge - Look for the Detour Sign",
-   "SiteId": "B",
-   "HumanLocation": "Fire Water Lounge - Look for the Detour Sign | Site B"
- },
- {
-   "Location": "The Garden of Earthly Delights",
-   "SiteId": "102",
-   "HumanLocation": "The Garden of Earthly Delights | Site 102"
- },
- {
-   "Location": "Camp Natural Wonder - Temple",
-   "SiteId": "15",
-   "HumanLocation": "Camp Natural Wonder - Temple | Site 15"
- },
- {
-   "Location": "The Huggery",
-   "SiteId": "107",
-   "HumanLocation": "The Huggery | Site 107"
- },
- {
-   "Location": "The Consortium of Indigent Mythological Creatures and Imaginary Bunnies.",
-   "SiteId": "9",
-   "HumanLocation": "The Consortium of Indigent Mythological Creatures and Imaginary Bunnies. | Site 9"
- },
- {
-   "Location": "Somewhere, Sometime",
-   "SiteId": "",
-   "HumanLocation": "Somewhere, Sometime"
- },
- {
-   "Location": "Camp Make Believe",
-   "SiteId": "61",
-   "HumanLocation": "Camp Make Believe | Site 61"
- },
- {
-   "Location": "Camp Heartburn",
-   "SiteId": "2",
-   "HumanLocation": "Camp Heartburn | Site 2"
- },
- {
-   "Location": "The Van Family Camp",
-   "SiteId": "81",
-   "HumanLocation": "The Van Family Camp | Site 81"
- },
- {
-   "Location": "Wandering",
-   "SiteId": "",
-   "HumanLocation": "Wandering"
- },
- {
-   "Location": "Camp Natural Wonder - Wonderland Play Yard",
-   "SiteId": "15",
-   "HumanLocation": "Camp Natural Wonder - Wonderland Play Yard | Site 15"
- },
- {
-   "Location": "DPW Stage",
-   "SiteId": "140",
-   "HumanLocation": "DPW Stage | Site 140"
- },
- {
-   "Location": "Camp Make Believe",
-   "SiteId": "61",
-   "HumanLocation": "Camp Make Believe | Site 61"
- },
- {
-   "Location": "Radio SGC 103.3",
-   "SiteId": "63",
-   "HumanLocation": "Radio SGC 103.3 | Site 63"
- },
- {
-   "Location": "Ranger HQ",
-   "SiteId": "48",
-   "HumanLocation": "Ranger HQ | Site 48"
- },
- {
-   "Location": "Radio SGC 103.3",
-   "SiteId": "63",
-   "HumanLocation": "Radio SGC 103.3 | Site 63"
- },
- {
-   "Location": "Koffee Up",
-   "SiteId": "52",
-   "HumanLocation": "Koffee Up | Site 52"
- },
- {
-   "Location": "No Drama Pancake House",
-   "SiteId": "56",
-   "HumanLocation": "No Drama Pancake House | Site 56"
- },
- {
-   "Location": "VALHALLA!",
-   "SiteId": "30",
-   "HumanLocation": "VALHALLA! | Site 30"
- },
- {
-   "Location": "Green Dragon Lounge",
-   "SiteId": "87",
-   "HumanLocation": "Green Dragon Lounge | Site 87"
- },
- {
-   "Location": "Radio SGC 103.3",
-   "SiteId": "63",
-   "HumanLocation": "Radio SGC 103.3 | Site 63"
- },
- {
-   "Location": "Camp Natural Wonder - Wonderland Play Yard",
-   "SiteId": "15",
-   "HumanLocation": "Camp Natural Wonder - Wonderland Play Yard | Site 15"
- },
- {
-   "Location": "Huxley University",
-   "SiteId": "89",
-   "HumanLocation": "Huxley University | Site 89"
- },
- {
-   "Location": "Camp Natural Wonder - Temple",
-   "SiteId": "15",
-   "HumanLocation": "Camp Natural Wonder - Temple | Site 15"
- },
- {
-   "Location": "Camp Rejuvenation",
-   "SiteId": "K5",
-   "HumanLocation": "Camp Rejuvenation | Site K5"
- },
- {
-   "Location": "Syncytium",
-   "SiteId": "4",
-   "HumanLocation": "Syncytium | Site 4"
- },
- {
-   "Location": "Sensation Station",
-   "SiteId": "K2",
-   "HumanLocation": "Sensation Station | Site K2"
- },
- {
-   "Location": "Syncytium",
-   "SiteId": "4",
-   "HumanLocation": "Syncytium | Site 4"
- },
- {
-   "Location": "Don's Trailer",
-   "SiteId": "",
-   "HumanLocation": "Don's Trailer"
- },
- {
-   "Location": "Kidsville",
-   "SiteId": "Near Keyhole",
-   "HumanLocation": "Kidsville | Site Near Keyhole"
- },
- {
-   "Location": "Camp Make Believe",
-   "SiteId": "61",
-   "HumanLocation": "Camp Make Believe | Site 61"
- },
- {
-   "Location": "Deep Mysteries Teahouse",
-   "SiteId": "123",
-   "HumanLocation": "Deep Mysteries Teahouse | Site 123"
- },
- {
-   "Location": "Camp Natural Wonder - Temple",
-   "SiteId": "15",
-   "HumanLocation": "Camp Natural Wonder - Temple | Site 15"
- },
- {
-   "Location": "Camp Natural Wonder",
-   "SiteId": "15",
-   "HumanLocation": "Camp Natural Wonder | Site 15"
- },
- {
-   "Location": "Syncytium",
-   "SiteId": "4",
-   "HumanLocation": "Syncytium | Site 4"
- },
- {
-   "Location": "The Van Family Camp",
-   "SiteId": "81",
-   "HumanLocation": "The Van Family Camp | Site 81"
- },
- {
-   "Location": "Moofi Habitat",
-   "SiteId": "90",
-   "HumanLocation": "Moofi Habitat | Site 90"
- },
- {
-   "Location": "dcbbq",
-   "SiteId": "A",
-   "HumanLocation": "dcbbq | Site A"
- },
- {
-   "Location": "Sensation Station",
-   "SiteId": "K2",
-   "HumanLocation": "Sensation Station | Site K2"
- },
- {
-   "Location": "Camp Pleasure",
-   "SiteId": "Z1",
-   "HumanLocation": "Camp Pleasure | Site Z1"
- },
- {
-   "Location": "Camp Boogey",
-   "SiteId": "13",
-   "HumanLocation": "Camp Boogey | Site 13"
- },
- {
-   "Location": "Stay at Home Ravers",
-   "SiteId": "59",
-   "HumanLocation": "Stay at Home Ravers | Site 59"
- },
- {
-   "Location": "Green Dragon Lounge",
-   "SiteId": "87",
-   "HumanLocation": "Green Dragon Lounge | Site 87"
- },
- {
-   "Location": "Me & You & Everyone We Know",
-   "SiteId": "24",
-   "HumanLocation": "Me & You & Everyone We Know | Site 24"
- },
- {
-   "Location": "Camp Natural Wonder - Unicorn's Subconscious",
-   "SiteId": "15",
-   "HumanLocation": "Camp Natural Wonder - Unicorn's Subconscious | Site 15"
- },
- {
-   "Location": "The Nest - Terrarium",
-   "SiteId": "84",
-   "HumanLocation": "The Nest - Terrarium | Site 84"
- },
- {
-   "Location": "The Huggery",
-   "SiteId": "107",
-   "HumanLocation": "The Huggery | Site 107"
- },
- {
-   "Location": "Me & You & Everyone We Know",
-   "SiteId": "24",
-   "HumanLocation": "Me & You & Everyone We Know | Site 24"
- },
- {
-   "Location": "Camp Pleasure",
-   "SiteId": "Z1",
-   "HumanLocation": "Camp Pleasure | Site Z1"
- },
- {
-   "Location": "Burnlesque",
-   "SiteId": "76",
-   "HumanLocation": "Burnlesque | Site 76"
- },
- {
-   "Location": "Midwest CORE",
-   "SiteId": "134",
-   "HumanLocation": "Midwest CORE | Site 134"
- },
- {
-   "Location": "Moofi Habitat",
-   "SiteId": "90",
-   "HumanLocation": "Moofi Habitat | Site 90"
- },
- {
-   "Location": "Mobile",
-   "SiteId": "",
-   "HumanLocation": "Mobile"
- },
- {
-   "Location": "Syncytium",
-   "SiteId": "4",
-   "HumanLocation": "Syncytium | Site 4"
- },
- {
-   "Location": "Sorr'eh Bar",
-   "SiteId": "40",
-   "HumanLocation": "Sorr'eh Bar | Site 40"
- },
- {
-   "Location": "Moofi Habitat",
-   "SiteId": "90",
-   "HumanLocation": "Moofi Habitat | Site 90"
- },
- {
-   "Location": "Camp Natural Wonder - Temple",
-   "SiteId": "15",
-   "HumanLocation": "Camp Natural Wonder - Temple | Site 15"
- },
- {
-   "Location": "Gothee Soir�e",
-   "SiteId": "94",
-   "HumanLocation": "Gothee Soir�e | Site 94"
- },
- {
-   "Location": "The Van Family Camp",
-   "SiteId": "81",
-   "HumanLocation": "The Van Family Camp | Site 81"
+   "Location": "Hullabaloo Village (The Fort)",
+   "SiteId": "98",
+   "HumanLocation": "Hullabaloo Village (The Fort) | Site 98"
  },
  {
    "Location": "Jurassic Mushroom Garden",
    "SiteId": "7",
-   "HumanLocation": "Jurassic Mushroom Garden | Site 7"
+   "HumanLocation": "Jurassic Mushroom Garden  | Site 7"
  },
  {
-   "Location": "Syncytium",
-   "SiteId": "4",
-   "HumanLocation": "Syncytium | Site 4"
+   "Location": "LNT Headquarters",
+   "SiteId": "Nexus",
+   "HumanLocation": "LNT Headquarters | Site Nexus"
  },
  {
-   "Location": "Camp Recharge",
-   "SiteId": "8",
-   "HumanLocation": "Camp Recharge | Site 8"
- },
- {
-   "Location": "Camp Natural Wonder - Temple",
-   "SiteId": "15",
-   "HumanLocation": "Camp Natural Wonder - Temple | Site 15"
- },
- {
-   "Location": "Gothee Soir�e",
-   "SiteId": "94",
-   "HumanLocation": "Gothee Soir�e | Site 94"
- },
- {
-   "Location": "Huxley University",
-   "SiteId": "89",
-   "HumanLocation": "Huxley University | Site 89"
- },
- {
-   "Location": "Camp Natural Wonder",
-   "SiteId": "15",
-   "HumanLocation": "Camp Natural Wonder | Site 15"
- },
- {
-   "Location": "Camp Boogey",
-   "SiteId": "13",
-   "HumanLocation": "Camp Boogey | Site 13"
- },
- {
-   "Location": "Camp Pleasure",
-   "SiteId": "Z1",
-   "HumanLocation": "Camp Pleasure | Site Z1"
- },
- {
-   "Location": "Camp Natural Wonder - Unicorn's Subconscious",
-   "SiteId": "15",
-   "HumanLocation": "Camp Natural Wonder - Unicorn's Subconscious | Site 15"
- },
- {
-   "Location": "Pick Dickle",
-   "SiteId": "11",
-   "HumanLocation": "Pick Dickle | Site 11"
- },
- {
-   "Location": "Effigy Peninsula",
-   "SiteId": "",
-   "HumanLocation": "Effigy Peninsula"
- },
- {
-   "Location": "Syncytium",
-   "SiteId": "4",
-   "HumanLocation": "Syncytium | Site 4"
- },
- {
-   "Location": "Burnlesque",
-   "SiteId": "76",
-   "HumanLocation": "Burnlesque | Site 76"
- },
- {
-   "Location": "Fire Water Lounge",
-   "SiteId": "B",
-   "HumanLocation": "Fire Water Lounge | Site B"
- },
- {
-   "Location": "Leave No Trace HQ",
-   "SiteId": "",
-   "HumanLocation": "Leave No Trace HQ"
- },
- {
-   "Location": "Not Sure Village - LoF Yacht Club",
+   "Location": "LoF Yacht Club (or find Pirate)",
    "SiteId": "35",
-   "HumanLocation": "Not Sure Village - LoF Yacht Club | Site 35"
+   "HumanLocation": "LoF Yacht Club (or find Pirate) | Site 35"
  },
  {
-   "Location": "Camp Natural Wonder - Temple",
-   "SiteId": "15",
-   "HumanLocation": "Camp Natural Wonder - Temple | Site 15"
- },
- {
-   "Location": "Tiny Tick Town",
-   "SiteId": "1",
-   "HumanLocation": "Tiny Tick Town | Site 1"
- },
- {
-   "Location": "Stay at Home Ravers",
-   "SiteId": "59",
-   "HumanLocation": "Stay at Home Ravers | Site 59"
- },
- {
-   "Location": "Syncytium",
-   "SiteId": "4",
-   "HumanLocation": "Syncytium | Site 4"
- },
- {
-   "Location": "Syncytium",
-   "SiteId": "4",
-   "HumanLocation": "Syncytium | Site 4"
- },
- {
-   "Location": "Radio SGC 103.3",
-   "SiteId": "63",
-   "HumanLocation": "Radio SGC 103.3 | Site 63"
- },
- {
-   "Location": "Me & You & Everyone We Know",
-   "SiteId": "24",
-   "HumanLocation": "Me & You & Everyone We Know | Site 24"
- },
- {
-   "Location": "Open camping",
+   "Location": "Lucky Lake",
    "SiteId": "",
-   "HumanLocation": "Open camping"
- },
- {
-   "Location": "The Van Family Camp",
-   "SiteId": "81",
-   "HumanLocation": "The Van Family Camp | Site 81"
- },
- {
-   "Location": "Greeters Station",
-   "SiteId": "",
-   "HumanLocation": "Greeters Station"
- },
- {
-   "Location": "Burnlesque",
-   "SiteId": "76",
-   "HumanLocation": "Burnlesque | Site 76"
- },
- {
-   "Location": "Kernel Bar next to the Shot Clinic",
-   "SiteId": "105",
-   "HumanLocation": "Kernel Bar next to the Shot Clinic | Site 105"
- },
- {
-   "Location": "The Secret Gentlemen's Club",
-   "SiteId": "63",
-   "HumanLocation": "The Secret Gentlemen's Club | Site 63"
- },
- {
-   "Location": "Camp Natural Wonder - Unicorn's Subconscious",
-   "SiteId": "15",
-   "HumanLocation": "Camp Natural Wonder - Unicorn's Subconscious | Site 15"
- },
- {
-   "Location": "Camp Natural Wonder - Yoga Beach",
-   "SiteId": "15",
-   "HumanLocation": "Camp Natural Wonder - Yoga Beach | Site 15"
- },
- {
-   "Location": "The Shot Clinic",
-   "SiteId": "105",
-   "HumanLocation": "The Shot Clinic | Site 105"
- },
- {
-   "Location": "The Secret Gentlemen's Club",
-   "SiteId": "63",
-   "HumanLocation": "The Secret Gentlemen's Club | Site 63"
- },
- {
-   "Location": "Midwest CORE",
-   "SiteId": "134",
-   "HumanLocation": "Midwest CORE | Site 134"
- },
- {
-   "Location": "DPW Stage",
-   "SiteId": "140",
-   "HumanLocation": "DPW Stage | Site 140"
- },
- {
-   "Location": "Camp Natural Wonder",
-   "SiteId": "15",
-   "HumanLocation": "Camp Natural Wonder | Site 15"
- },
- {
-   "Location": "Jurassic Mushroom Garden",
-   "SiteId": "7",
-   "HumanLocation": "Jurassic Mushroom Garden | Site 7"
- },
- {
-   "Location": "The Mysterious Locked Chest",
-   "SiteId": "",
-   "HumanLocation": "The Mysterious Locked Chest"
- },
- {
-   "Location": "The Shot Clinic",
-   "SiteId": "105",
-   "HumanLocation": "The Shot Clinic | Site 105"
- },
- {
-   "Location": "Walk-Through Faerieshrine",
-   "SiteId": "",
-   "HumanLocation": "Walk-Through Faerieshrine"
- },
- {
-   "Location": "Sorr'eh Bar",
-   "SiteId": "40",
-   "HumanLocation": "Sorr'eh Bar | Site 40"
- },
- {
-   "Location": "Videogasm",
-   "SiteId": "72",
-   "HumanLocation": "Videogasm | Site 72"
- },
- {
-   "Location": "North Beach",
-   "SiteId": "4",
-   "HumanLocation": "North Beach | Site 4"
- },
- {
-   "Location": "The Secret Gentlemen's Club",
-   "SiteId": "63",
-   "HumanLocation": "The Secret Gentlemen's Club | Site 63"
- },
- {
-   "Location": "Green Dragon Lounge",
-   "SiteId": "87",
-   "HumanLocation": "Green Dragon Lounge | Site 87"
- },
- {
-   "Location": "DPW Saloon",
-   "SiteId": "140",
-   "HumanLocation": "DPW Saloon | Site 140"
- },
- {
-   "Location": "Camp Boogey",
-   "SiteId": "13",
-   "HumanLocation": "Camp Boogey | Site 13"
- },
- {
-   "Location": "The Van Family Camp",
-   "SiteId": "81",
-   "HumanLocation": "The Van Family Camp | Site 81"
- },
- {
-   "Location": "Camp Natural Wonder - Unicorn's Subconscious",
-   "SiteId": "15",
-   "HumanLocation": "Camp Natural Wonder - Unicorn's Subconscious | Site 15"
- },
- {
-   "Location": "The Mysterious Locked Chest",
-   "SiteId": "",
-   "HumanLocation": "The Mysterious Locked Chest"
- },
- {
-   "Location": "Follow the Clues to Find Out :)",
-   "SiteId": "",
-   "HumanLocation": "Follow the Clues to Find Out :)"
- },
- {
-   "Location": "dcbbq",
-   "SiteId": "A",
-   "HumanLocation": "dcbbq | Site A"
- },
- {
-   "Location": "Camp Bike and Brews",
-   "SiteId": "K1",
-   "HumanLocation": "Camp Bike and Brews | Site K1"
- },
- {
-   "Location": "Canned Ham Camp",
-   "SiteId": "43",
-   "HumanLocation": "Canned Ham Camp | Site 43"
- },
- {
-   "Location": "Camp Make Believe",
-   "SiteId": "61",
-   "HumanLocation": "Camp Make Believe | Site 61"
- },
- {
-   "Location": "Deep Mysteries Teahouse",
-   "SiteId": "123",
-   "HumanLocation": "Deep Mysteries Teahouse | Site 123"
- },
- {
-   "Location": "The Van Family Camp",
-   "SiteId": "81",
-   "HumanLocation": "The Van Family Camp | Site 81"
- },
- {
-   "Location": "DPW Saloon",
-   "SiteId": "140",
-   "HumanLocation": "DPW Saloon | Site 140"
- },
- {
-   "Location": "Top of the Fort!",
-   "SiteId": "97",
-   "HumanLocation": "Top of the Fort! | Site 97"
- },
- {
-   "Location": "Art Hub",
-   "SiteId": "",
-   "HumanLocation": "Art Hub"
- },
- {
-   "Location": "Green Dragon Lounge",
-   "SiteId": "87",
-   "HumanLocation": "Green Dragon Lounge | Site 87"
- },
- {
-   "Location": "Camp One More Thing",
-   "SiteId": "118",
-   "HumanLocation": "Camp One More Thing | Site 118"
- },
- {
-   "Location": "VALHALLA!",
-   "SiteId": "30",
-   "HumanLocation": "VALHALLA! | Site 30"
- },
- {
-   "Location": "Lux Ephemera | Site 85",
-   "SiteId": "",
-   "HumanLocation": "Lux Ephemera | Site 85"
- },
- {
-   "Location": "Art in a Porto",
-   "SiteId": "",
-   "HumanLocation": "Art in a Porto"
- },
- {
-   "Location": "Radio SGC 103.3",
-   "SiteId": "63",
-   "HumanLocation": "Radio SGC 103.3 | Site 63"
- },
- {
-   "Location": "Camp Bike and Brews",
-   "SiteId": "K1",
-   "HumanLocation": "Camp Bike and Brews | Site K1"
- },
- {
-   "Location": "Fire Water Lounge - Look for the Detour Sign",
-   "SiteId": "B",
-   "HumanLocation": "Fire Water Lounge - Look for the Detour Sign | Site B"
- },
- {
-   "Location": "The Garden of Earthly Delights",
-   "SiteId": "102",
-   "HumanLocation": "The Garden of Earthly Delights | Site 102"
- },
- {
-   "Location": "Camp Natural Wonder - Temple",
-   "SiteId": "15",
-   "HumanLocation": "Camp Natural Wonder - Temple | Site 15"
- },
- {
-   "Location": "The Huggery",
-   "SiteId": "107",
-   "HumanLocation": "The Huggery | Site 107"
- },
- {
-   "Location": "The Consortium of Indigent Mythological Creatures and Imaginary Bunnies.",
-   "SiteId": "9",
-   "HumanLocation": "The Consortium of Indigent Mythological Creatures and Imaginary Bunnies. | Site 9"
- },
- {
-   "Location": "Somewhere, Sometime",
-   "SiteId": "",
-   "HumanLocation": "Somewhere, Sometime"
- },
- {
-   "Location": "Camp Make Believe",
-   "SiteId": "61",
-   "HumanLocation": "Camp Make Believe | Site 61"
- },
- {
-   "Location": "Camp Heartburn",
-   "SiteId": "2",
-   "HumanLocation": "Camp Heartburn | Site 2"
- },
- {
-   "Location": "The Van Family Camp",
-   "SiteId": "81",
-   "HumanLocation": "The Van Family Camp | Site 81"
- },
- {
-   "Location": "Camp Natural Wonder - Wonderland Play Yard",
-   "SiteId": "15",
-   "HumanLocation": "Camp Natural Wonder - Wonderland Play Yard | Site 15"
- },
- {
-   "Location": "Camp Make Believe",
-   "SiteId": "61",
-   "HumanLocation": "Camp Make Believe | Site 61"
- },
- {
-   "Location": "Radio SGC 103.3",
-   "SiteId": "63",
-   "HumanLocation": "Radio SGC 103.3 | Site 63"
- },
- {
-   "Location": "Radio SGC 103.3",
-   "SiteId": "63",
-   "HumanLocation": "Radio SGC 103.3 | Site 63"
- },
- {
-   "Location": "The Mysterious Locked Chest",
-   "SiteId": "",
-   "HumanLocation": "The Mysterious Locked Chest"
- },
- {
-   "Location": "Radio SGC 103.3",
-   "SiteId": "63",
-   "HumanLocation": "Radio SGC 103.3 | Site 63"
- },
- {
-   "Location": "Ranger HQ",
-   "SiteId": "48",
-   "HumanLocation": "Ranger HQ | Site 48"
- },
- {
-   "Location": "Radio SGC 103.3",
-   "SiteId": "63",
-   "HumanLocation": "Radio SGC 103.3 | Site 63"
- },
- {
-   "Location": "Koffee Up",
-   "SiteId": "52",
-   "HumanLocation": "Koffee Up | Site 52"
- },
- {
-   "Location": "Radio SGC 103.3",
-   "SiteId": "63",
-   "HumanLocation": "Radio SGC 103.3 | Site 63"
- },
- {
-   "Location": "No Drama Pancake House",
-   "SiteId": "56",
-   "HumanLocation": "No Drama Pancake House | Site 56"
- },
- {
-   "Location": "Camp Natural Wonder - Wonderland Play Yard",
-   "SiteId": "15",
-   "HumanLocation": "Camp Natural Wonder - Wonderland Play Yard | Site 15"
- },
- {
-   "Location": "Camp Pleasure",
-   "SiteId": "Z1",
-   "HumanLocation": "Camp Pleasure | Site Z1"
- },
- {
-   "Location": "Good Vibe Tribe - The Fort",
-   "SiteId": "97",
-   "HumanLocation": "Good Vibe Tribe - The Fort | Site 97"
- },
- {
-   "Location": "VALHALLA!",
-   "SiteId": "30",
-   "HumanLocation": "VALHALLA! | Site 30"
- },
- {
-   "Location": "Radio SGC 103.3",
-   "SiteId": "63",
-   "HumanLocation": "Radio SGC 103.3 | Site 63"
- },
- {
-   "Location": "The Cult of Janky",
-   "SiteId": "69",
-   "HumanLocation": "The Cult of Janky | Site 69"
- },
- {
-   "Location": "Green Dragon Lounge",
-   "SiteId": "87",
-   "HumanLocation": "Green Dragon Lounge | Site 87"
- },
- {
-   "Location": "Greeters Station",
-   "SiteId": "",
-   "HumanLocation": "Greeters Station"
- },
- {
-   "Location": "Camp Rejuvenation",
-   "SiteId": "K5",
-   "HumanLocation": "Camp Rejuvenation | Site K5"
- },
- {
-   "Location": "Camp Pleasure",
-   "SiteId": "Z1",
-   "HumanLocation": "Camp Pleasure | Site Z1"
- },
- {
-   "Location": "Syncytium",
-   "SiteId": "4",
-   "HumanLocation": "Syncytium | Site 4"
- },
- {
-   "Location": "Sensation Station",
-   "SiteId": "K2",
-   "HumanLocation": "Sensation Station | Site K2"
- },
- {
-   "Location": "Videogasm",
-   "SiteId": "72",
-   "HumanLocation": "Videogasm | Site 72"
- },
- {
-   "Location": "Not Sure Village - Old Bitches Teahouse",
-   "SiteId": "34",
-   "HumanLocation": "Not Sure Village - Old Bitches Teahouse | Site 34"
- },
- {
-   "Location": "Don's Trailer",
-   "SiteId": "",
-   "HumanLocation": "Don's Trailer"
- },
- {
-   "Location": "Camp Make Believe",
-   "SiteId": "61",
-   "HumanLocation": "Camp Make Believe | Site 61"
- },
- {
-   "Location": "Deep Mysteries Teahouse",
-   "SiteId": "123",
-   "HumanLocation": "Deep Mysteries Teahouse | Site 123"
- },
- {
-   "Location": "Camp Natural Wonder - Temple",
-   "SiteId": "15",
-   "HumanLocation": "Camp Natural Wonder - Temple | Site 15"
- },
- {
-   "Location": "Me & You & Everyone We Know",
-   "SiteId": "24",
-   "HumanLocation": "Me & You & Everyone We Know | Site 24"
- },
- {
-   "Location": "Radio SGC 103.3",
-   "SiteId": "63",
-   "HumanLocation": "Radio SGC 103.3 | Site 63"
- },
- {
-   "Location": "Syncytium",
-   "SiteId": "4",
-   "HumanLocation": "Syncytium | Site 4"
- },
- {
-   "Location": "Camp Natural Wonder",
-   "SiteId": "15",
-   "HumanLocation": "Camp Natural Wonder | Site 15"
- },
- {
-   "Location": "Syncytium",
-   "SiteId": "4",
-   "HumanLocation": "Syncytium | Site 4"
- },
- {
-   "Location": "The Van Family Camp",
-   "SiteId": "81",
-   "HumanLocation": "The Van Family Camp | Site 81"
- },
- {
-   "Location": "Moofi Habitat",
-   "SiteId": "90",
-   "HumanLocation": "Moofi Habitat | Site 90"
- },
- {
-   "Location": "Camp Pleasure",
-   "SiteId": "Z1",
-   "HumanLocation": "Camp Pleasure | Site Z1"
- },
- {
-   "Location": "TBD at Meeting One",
-   "SiteId": "",
-   "HumanLocation": "TBD at Meeting One"
- },
- {
-   "Location": "Burnlesque",
-   "SiteId": "76",
-   "HumanLocation": "Burnlesque | Site 76"
- },
- {
-   "Location": "Sensation Station",
-   "SiteId": "K2",
-   "HumanLocation": "Sensation Station | Site K2"
- },
- {
-   "Location": "Stay at Home Ravers",
-   "SiteId": "59",
-   "HumanLocation": "Stay at Home Ravers | Site 59"
- },
- {
-   "Location": "Green Dragon Lounge",
-   "SiteId": "87",
-   "HumanLocation": "Green Dragon Lounge | Site 87"
- },
- {
-   "Location": "Camp Natural Wonder - Temple",
-   "SiteId": "15",
-   "HumanLocation": "Camp Natural Wonder - Temple | Site 15"
- },
- {
-   "Location": "Moofi Habitat",
-   "SiteId": "90",
-   "HumanLocation": "Moofi Habitat | Site 90"
- },
- {
-   "Location": "The Van Family Camp",
-   "SiteId": "81",
-   "HumanLocation": "The Van Family Camp | Site 81"
- },
- {
-   "Location": "Syncytium",
-   "SiteId": "4",
-   "HumanLocation": "Syncytium | Site 4"
- },
- {
-   "Location": "Moofi Habitat",
-   "SiteId": "90",
-   "HumanLocation": "Moofi Habitat | Site 90"
- },
- {
-   "Location": "Mobile",
-   "SiteId": "",
-   "HumanLocation": "Mobile"
- },
- {
-   "Location": "Kidsville",
-   "SiteId": "Near Keyhole",
-   "HumanLocation": "Kidsville | Site Near Keyhole"
- },
- {
-   "Location": "Moofi Habitat",
-   "SiteId": "90",
-   "HumanLocation": "Moofi Habitat | Site 90"
- },
- {
-   "Location": "Gothee Soir�e",
-   "SiteId": "94",
-   "HumanLocation": "Gothee Soir�e | Site 94"
- },
- {
-   "Location": "The Van Family Camp",
-   "SiteId": "81",
-   "HumanLocation": "The Van Family Camp | Site 81"
- },
- {
-   "Location": "Jurassic Mushroom Garden",
-   "SiteId": "7",
-   "HumanLocation": "Jurassic Mushroom Garden | Site 7"
- },
- {
-   "Location": "Camp Natural Wonder - Unicorn's Subconscious",
-   "SiteId": "15",
-   "HumanLocation": "Camp Natural Wonder - Unicorn's Subconscious | Site 15"
- },
- {
-   "Location": "Camp Pleasure",
-   "SiteId": "Z1",
-   "HumanLocation": "Camp Pleasure | Site Z1"
- },
- {
-   "Location": "Camp Natural Wonder - Unicorn's Subconscious",
-   "SiteId": "15",
-   "HumanLocation": "Camp Natural Wonder - Unicorn's Subconscious | Site 15"
- },
- {
-   "Location": "Pick Dickle",
-   "SiteId": "11",
-   "HumanLocation": "Pick Dickle | Site 11"
- },
- {
-   "Location": "Sorr'eh Bar",
-   "SiteId": "40",
-   "HumanLocation": "Sorr'eh Bar | Site 40"
- },
- {
-   "Location": "Syncytium",
-   "SiteId": "4",
-   "HumanLocation": "Syncytium | Site 4"
- },
- {
-   "Location": "Huxley University",
-   "SiteId": "89",
-   "HumanLocation": "Huxley University | Site 89"
+   "HumanLocation": "Lucky Lake"
  },
  {
    "Location": "Lucky Lake Burner Library",
-   "SiteId": "K6",
-   "HumanLocation": "Lucky Lake Burner Library | Site K6"
+   "SiteId": "K11",
+   "HumanLocation": "Lucky Lake Burner Library | Site K11"
  },
  {
-   "Location": "Kidsville",
-   "SiteId": "Near Keyhole",
-   "HumanLocation": "Kidsville | Site Near Keyhole"
+   "Location": "Lux Ephemera",
+   "SiteId": "97",
+   "HumanLocation": "Lux Ephemera | Site 97"
  },
  {
-   "Location": "8A (Octopus Island of Hammocks)",
+   "Location": "Me & You",
+   "SiteId": "26",
+   "HumanLocation": "Me & You | Site 26"
+ },
+ {
+   "Location": "Meditation Lotus (Camp Natural Wonder)",
+   "SiteId": "13",
+   "HumanLocation": "Meditation Lotus (Camp Natural Wonder) | Site 13"
+ },
+ {
+   "Location": "No Drama Pancake House",
+   "SiteId": "107",
+   "HumanLocation": "No Drama Pancake House | Site 107"
+ },
+ {
+   "Location": "North Beach",
    "SiteId": "",
-   "HumanLocation": "8A (Octopus Island of Hammocks)"
+   "HumanLocation": "North Beach"
  },
  {
-   "Location": "Not Sure Village",
-   "SiteId": "33",
-   "HumanLocation": "Not Sure Village | Site 33"
+   "Location": "North side of the Pond",
+   "SiteId": "",
+   "HumanLocation": "North side of the Pond"
  },
  {
-   "Location": "Tiny Tick Town",
-   "SiteId": "1",
-   "HumanLocation": "Tiny Tick Town | Site 1"
+   "Location": "Odditorium",
+   "SiteId": "127",
+   "HumanLocation": "Odditorium | Site 127"
+ },
+ {
+   "Location": "Open Camping",
+   "SiteId": "",
+   "HumanLocation": "Open Camping"
+ },
+ {
+   "Location": "Parking Lot",
+   "SiteId": "",
+   "HumanLocation": "Parking Lot"
+ },
+ {
+   "Location": "Pick Dickle",
+   "SiteId": "11",
+   "HumanLocation": "Pick Dickle | Site 11"
+ },
+ {
+   "Location": "Pine Forest between Gate and Greeters",
+   "SiteId": "",
+   "HumanLocation": "Pine Forest between Gate and Greeters"
+ },
+ {
+   "Location": "Radio SGC 103.3",
+   "SiteId": "63",
+   "HumanLocation": "Radio SGC 103.3 | Site 63"
+ },
+ {
+   "Location": "Rejuvenation",
+   "SiteId": "K9",
+   "HumanLocation": "Rejuvenation | Site K9"
+ },
+ {
+   "Location": "Safe Zone",
+   "SiteId": "K23",
+   "HumanLocation": "Safe Zone | Site K23"
+ },
+ {
+   "Location": "Schnapps Shots Detour",
+   "SiteId": "C",
+   "HumanLocation": "Schnapps Shots Detour | Site C"
+ },
+ {
+   "Location": "Somewhere on the Lake",
+   "SiteId": "",
+   "HumanLocation": "Somewhere on the Lake"
  },
  {
    "Location": "Sorr'eh Bar",
@@ -1801,9 +296,9 @@
    "HumanLocation": "Sorr'eh Bar | Site 40"
  },
  {
-   "Location": "Me & You & Everyone We Know",
-   "SiteId": "24",
-   "HumanLocation": "Me & You & Everyone We Know | Site 24"
+   "Location": "Sphinx's Beer Garden",
+   "SiteId": "89",
+   "HumanLocation": "Sphinx's Beer Garden | Site 89"
  },
  {
    "Location": "Syncytium",
@@ -1811,39 +306,69 @@
    "HumanLocation": "Syncytium | Site 4"
  },
  {
-   "Location": "Ranger HQ",
-   "SiteId": "48",
-   "HumanLocation": "Ranger HQ | Site 48"
+   "Location": "Syncytium Bar",
+   "SiteId": "4",
+   "HumanLocation": "Syncytium Bar | Site 4"
  },
  {
-   "Location": "DPW Saloon",
-   "SiteId": "140",
-   "HumanLocation": "DPW Saloon | Site 140"
- },
- {
-   "Location": "The Shot Clinic",
-   "SiteId": "105",
-   "HumanLocation": "The Shot Clinic | Site 105"
- },
- {
-   "Location": "The Shot Clinic",
-   "SiteId": "105",
-   "HumanLocation": "The Shot Clinic | Site 105"
- },
- {
-   "Location": "Effigy Peninsula",
+   "Location": "Tea and Strumpets (Open Camping)",
    "SiteId": "",
-   "HumanLocation": "Effigy Peninsula"
+   "HumanLocation": "Tea and Strumpets (Open Camping)"
  },
  {
-   "Location": "Effigy Peninsula",
+   "Location": "The Beach",
    "SiteId": "",
-   "HumanLocation": "Effigy Peninsula"
+   "HumanLocation": "The Beach"
  },
  {
-   "Location": "DPW Stage",
-   "SiteId": "140",
-   "HumanLocation": "DPW Stage | Site 140"
+   "Location": "The Butterfly Path Entrance",
+   "SiteId": "",
+   "HumanLocation": "The Butterfly Path Entrance"
+ },
+ {
+   "Location": "The Compliment Lounge",
+   "SiteId": "",
+   "HumanLocation": "The Compliment Lounge"
+ },
+ {
+   "Location": "The Consortium of Indigent Mythological Creatures and Imaginary Bunnies",
+   "SiteId": "D",
+   "HumanLocation": "The Consortium of Indigent Mythological Creatures and Imaginary Bunnies | Site D"
+ },
+ {
+   "Location": "The Den",
+   "SiteId": "134",
+   "HumanLocation": "The Den | Site 134"
+ },
+ {
+   "Location": "The Flow Project",
+   "SiteId": "K18",
+   "HumanLocation": "The Flow Project | Site K18"
+ },
+ {
+   "Location": "The Funky Tiki Teahut",
+   "SiteId": "19",
+   "HumanLocation": "The Funky Tiki Teahut | Site 19"
+ },
+ {
+   "Location": "The G String Art Installation",
+   "SiteId": "",
+   "HumanLocation": "The G String Art Installation"
+ },
+ {
+   "Location": "The Huggery",
+   "SiteId": "3 3/4",
+   "HumanLocation": "The Huggery | Site 3 3/4"
+ },
+ {
+   "Location": "The Lot",
+   "SiteId": "77",
+   "HumanLocation": "The Lot | Site 77"
+ },
+ {
+   "Location": "The Mysterious Locked Chest",
+   "SiteId": "",
+   "HumanLocation": "The Mysterious Locked Chest"
  },
  {
    "Location": "The Secret Gentlemen's Club",
@@ -1851,159 +376,44 @@
    "HumanLocation": "The Secret Gentlemen's Club | Site 63"
  },
  {
-   "Location": "Gothee Soir�e",
-   "SiteId": "94",
-   "HumanLocation": "Gothee Soir�e | Site 94"
+   "Location": "Tick Town",
+   "SiteId": "1",
+   "HumanLocation": "Tick Town | Site 1"
  },
  {
-   "Location": "DPW",
-   "SiteId": "140",
-   "HumanLocation": "DPW | Site 140"
- },
- {
-   "Location": "DPW Stage",
-   "SiteId": "140",
-   "HumanLocation": "DPW Stage | Site 140"
- },
- {
-   "Location": "Green Dragon Lounge",
-   "SiteId": "87",
-   "HumanLocation": "Green Dragon Lounge | Site 87"
- },
- {
-   "Location": "Camp Boogey",
-   "SiteId": "13",
-   "HumanLocation": "Camp Boogey | Site 13"
- },
- {
-   "Location": "Effigy Peninsula",
-   "SiteId": "",
-   "HumanLocation": "Effigy Peninsula"
+   "Location": "VALHALLA!",
+   "SiteId": "59",
+   "HumanLocation": "VALHALLA! | Site 59"
  },
  {
    "Location": "Videogasm",
-   "SiteId": "72",
-   "HumanLocation": "Videogasm | Site 72"
+   "SiteId": "74",
+   "HumanLocation": "Videogasm | Site 74"
  },
  {
-   "Location": "Camp Bike and Brews",
-   "SiteId": "K1",
-   "HumanLocation": "Camp Bike and Brews | Site K1"
+   "Location": "Village Not Sure",
+   "SiteId": "111",
+   "HumanLocation": "Village Not Sure | Site 111"
  },
  {
-   "Location": "dcbbq",
-   "SiteId": "A",
-   "HumanLocation": "dcbbq | Site A"
+   "Location": "VW bus Camp",
+   "SiteId": "K19",
+   "HumanLocation": "VW bus Camp | Site K19"
  },
  {
-   "Location": "Canned Ham Camp",
-   "SiteId": "43",
-   "HumanLocation": "Canned Ham Camp | Site 43"
+   "Location": "Waiting Room (Pharmacy & Shot Clinic)",
+   "SiteId": "104",
+   "HumanLocation": "Waiting Room (Pharmacy & Shot Clinic) | Site 104"
  },
  {
-   "Location": "Camp Make Believe",
-   "SiteId": "61",
-   "HumanLocation": "Camp Make Believe | Site 61"
- },
- {
-   "Location": "Deep Mysteries Teahouse",
-   "SiteId": "123",
-   "HumanLocation": "Deep Mysteries Teahouse | Site 123"
- },
- {
-   "Location": "The Van Family Camp",
-   "SiteId": "81",
-   "HumanLocation": "The Van Family Camp | Site 81"
- },
- {
-   "Location": "DPW Saloon",
-   "SiteId": "140",
-   "HumanLocation": "DPW Saloon | Site 140"
- },
- {
-   "Location": "Camp One More Thing",
-   "SiteId": "118",
-   "HumanLocation": "Camp One More Thing | Site 118"
- },
- {
-   "Location": "Radio SGC 103.3",
-   "SiteId": "63",
-   "HumanLocation": "Radio SGC 103.3 | Site 63"
- },
- {
-   "Location": "Fire Water Lounge - Look for the Detour Sign",
+   "Location": "Wee-Effigy Burn Site (Firewater Lounge)",
    "SiteId": "B",
-   "HumanLocation": "Fire Water Lounge - Look for the Detour Sign | Site B"
+   "HumanLocation": "Wee-Effigy Burn Site (Firewater Lounge) | Site B"
  },
  {
-   "Location": "Camp Natural Wonder - Temple",
-   "SiteId": "15",
-   "HumanLocation": "Camp Natural Wonder - Temple | Site 15"
- },
- {
-   "Location": "The Huggery",
-   "SiteId": "107",
-   "HumanLocation": "The Huggery | Site 107"
- },
- {
-   "Location": "The Consortium of Indigent Mythological Creatures and Imaginary Bunnies.",
-   "SiteId": "9",
-   "HumanLocation": "The Consortium of Indigent Mythological Creatures and Imaginary Bunnies. | Site 9"
- },
- {
-   "Location": "Somewhere, Sometime",
-   "SiteId": "",
-   "HumanLocation": "Somewhere, Sometime"
- },
- {
-   "Location": "Camp Make Believe",
-   "SiteId": "61",
-   "HumanLocation": "Camp Make Believe | Site 61"
- },
- {
-   "Location": "The Van Family Camp",
-   "SiteId": "81",
-   "HumanLocation": "The Van Family Camp | Site 81"
- },
- {
-   "Location": "Camp Natural Wonder - Wonderland Play Yard",
-   "SiteId": "15",
-   "HumanLocation": "Camp Natural Wonder - Wonderland Play Yard | Site 15"
- },
- {
-   "Location": "Camp Make Believe",
-   "SiteId": "61",
-   "HumanLocation": "Camp Make Believe | Site 61"
- },
- {
-   "Location": "Radio SGC 103.3",
-   "SiteId": "63",
-   "HumanLocation": "Radio SGC 103.3 | Site 63"
- },
- {
-   "Location": "Radio SGC 103.3",
-   "SiteId": "63",
-   "HumanLocation": "Radio SGC 103.3 | Site 63"
- },
- {
-   "Location": "Ranger HQ",
-   "SiteId": "48",
-   "HumanLocation": "Ranger HQ | Site 48"
- },
- {
-   "Location": "No Drama Pancake House",
-   "SiteId": "56",
-   "HumanLocation": "No Drama Pancake House | Site 56"
- },
- {
-   "Location": "Camp Bike and Brews",
-   "SiteId": "K1",
-   "HumanLocation": "Camp Bike and Brews | Site K1"
- },
- {
-   "Location": "Deep Mysteries Teahouse",
-   "SiteId": "123",
-   "HumanLocation": "Deep Mysteries Teahouse | Site 123"
+   "Location": "Weegodda Village",
+   "SiteId": "37",
+   "HumanLocation": "Weegodda Village | Site 37"
  }
 ]
 }
