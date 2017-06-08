@@ -17,8 +17,8 @@
  },
  {
    "Location": "BBB (Burning Belgian Beer)",
-   "SiteId": "",
-   "HumanLocation": "BBB (Burning Belgian Beer)"
+   "SiteId": "112",
+   "HumanLocation": "BBB (Burning Belgian Beer) | Site 112"
  },
  {
    "Location": "Beach Front",
@@ -32,8 +32,8 @@
  },
  {
    "Location": "Bikes and Brews",
-   "SiteId": "K1",
-   "HumanLocation": "Bikes and Brews | Site K1"
+   "SiteId": "K8",
+   "HumanLocation": "Bikes and Brews | Site K8"
  },
  {
    "Location": "Bubbles and Stripes",
@@ -42,8 +42,8 @@
  },
  {
    "Location": "Camp Air Burn~n~Burn",
-   "SiteId": "57",
-   "HumanLocation": "Camp Air Burn~n~Burn | Site 57"
+   "SiteId": "73",
+   "HumanLocation": "Camp Air Burn~n~Burn | Site 73"
  },
  {
    "Location": "Camp Burnlesque",
@@ -52,8 +52,8 @@
  },
  {
    "Location": "Camp Djibouti",
-   "SiteId": "K12",
-   "HumanLocation": "Camp Djibouti | Site K12"
+   "SiteId": "K15",
+   "HumanLocation": "Camp Djibouti | Site K15"
  },
  {
    "Location": "Camp Heartburn",
@@ -87,8 +87,8 @@
  },
  {
    "Location": "Camp Spritz",
-   "SiteId": "K21",
-   "HumanLocation": "Camp Spritz | Site K21"
+   "SiteId": "K3",
+   "HumanLocation": "Camp Spritz | Site K3"
  },
  {
    "Location": "Canned Ham Camp",
@@ -97,8 +97,8 @@
  },
  {
    "Location": "Capn Nemo's Flaming Carnival",
-   "SiteId": "125",
-   "HumanLocation": "Capn Nemo's Flaming Carnival | Site 125"
+   "SiteId": "22",
+   "HumanLocation": "Capn Nemo's Flaming Carnival | Site 22"
  },
  {
    "Location": "Coffee Up Camp",
@@ -107,8 +107,8 @@
  },
  {
    "Location": "Copycats Costume Camp",
-   "SiteId": "10",
-   "HumanLocation": "Copycats Costume Camp | Site 10"
+   "SiteId": "I",
+   "HumanLocation": "Copycats Costume Camp | Site I"
  },
  {
    "Location": "Crystal Castle (Jurassic Mushroom Garden)",
@@ -121,14 +121,19 @@
    "HumanLocation": "Cult of Janky | Site 70"
  },
  {
+   "Location": "dcbbq",
+   "SiteId": "A",
+   "HumanLocation": "dcbbq | Site A"
+ },
+ {
    "Location": "Deep Mysteries Teahouse",
    "SiteId": "85",
    "HumanLocation": "Deep Mysteries Teahouse | Site 85"
  },
  {
    "Location": "Dino Dome",
-   "SiteId": "K20",
-   "HumanLocation": "Dino Dome | Site K20"
+   "SiteId": "K2",
+   "HumanLocation": "Dino Dome | Site K2"
  },
  {
    "Location": "Dive Bar",
@@ -172,13 +177,13 @@
  },
  {
    "Location": "Gypsy Camp",
-   "SiteId": "",
-   "HumanLocation": "Gypsy Camp"
+   "SiteId": "K21",
+   "HumanLocation": "Gypsy Camp | Site K21"
  },
  {
    "Location": "Hullabaloo Village",
-   "SiteId": "100",
-   "HumanLocation": "Hullabaloo Village | Site 100"
+   "SiteId": "98",
+   "HumanLocation": "Hullabaloo Village | Site 98"
  },
  {
    "Location": "Hullabaloo Village (The Fort)",
@@ -227,8 +232,8 @@
  },
  {
    "Location": "No Drama Pancake House",
-   "SiteId": "107",
-   "HumanLocation": "No Drama Pancake House | Site 107"
+   "SiteId": "57",
+   "HumanLocation": "No Drama Pancake House | Site 57"
  },
  {
    "Location": "North Beach",
@@ -271,19 +276,24 @@
    "HumanLocation": "Radio SGC 103.3 | Site 63"
  },
  {
+   "Location": "Ranger HQ",
+   "SiteId": "48",
+   "HumanLocation": "Ranger HQ | Site 48"
+ },
+ {
    "Location": "Rejuvenation",
-   "SiteId": "K9",
-   "HumanLocation": "Rejuvenation | Site K9"
+   "SiteId": "K19",
+   "HumanLocation": "Rejuvenation | Site K19"
  },
  {
    "Location": "Safe Zone",
-   "SiteId": "K23",
-   "HumanLocation": "Safe Zone | Site K23"
+   "SiteId": "K18",
+   "HumanLocation": "Safe Zone | Site K18"
  },
  {
    "Location": "Schnapps Shots Detour",
-   "SiteId": "C",
-   "HumanLocation": "Schnapps Shots Detour | Site C"
+   "SiteId": "D",
+   "HumanLocation": "Schnapps Shots Detour | Site D"
  },
  {
    "Location": "Somewhere on the Lake",
@@ -332,8 +342,8 @@
  },
  {
    "Location": "The Consortium of Indigent Mythological Creatures and Imaginary Bunnies",
-   "SiteId": "D",
-   "HumanLocation": "The Consortium of Indigent Mythological Creatures and Imaginary Bunnies | Site D"
+   "SiteId": "C",
+   "HumanLocation": "The Consortium of Indigent Mythological Creatures and Imaginary Bunnies | Site C"
  },
  {
    "Location": "The Den",
@@ -342,8 +352,8 @@
  },
  {
    "Location": "The Flow Project",
-   "SiteId": "K18",
-   "HumanLocation": "The Flow Project | Site K18"
+   "SiteId": "H",
+   "HumanLocation": "The Flow Project | Site H"
  },
  {
    "Location": "The Funky Tiki Teahut",
@@ -382,8 +392,8 @@
  },
  {
    "Location": "VALHALLA!",
-   "SiteId": "59",
-   "HumanLocation": "VALHALLA! | Site 59"
+   "SiteId": "58",
+   "HumanLocation": "VALHALLA! | Site 58"
  },
  {
    "Location": "Videogasm",
@@ -397,8 +407,8 @@
  },
  {
    "Location": "VW bus Camp",
-   "SiteId": "K19",
-   "HumanLocation": "VW bus Camp | Site K19"
+   "SiteId": "K22",
+   "HumanLocation": "VW bus Camp | Site K22"
  },
  {
    "Location": "Waiting Room (Pharmacy & Shot Clinic)",

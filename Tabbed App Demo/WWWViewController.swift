@@ -18,7 +18,7 @@ class WWWViewController: UIViewController {
         // Do any additional setup after loading the view.
         
         
-        if let pdf = Bundle.main.url(forResource: "LOF-Program2016-web", withExtension: "pdf", subdirectory: nil, localization: nil)  {
+        if let pdf = Bundle.main.url(forResource: "LOF-Program2017-web", withExtension: "pdf", subdirectory: nil, localization: nil)  {
             let req = NSURLRequest(url: pdf)
             wwwWebView.loadRequest(req as URLRequest)
             
