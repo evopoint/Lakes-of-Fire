@@ -16,7 +16,7 @@ class MapViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        imageView = UIImageView(image: UIImage(named: "LOF-Program2017-map.jpg"))
+        imageView = UIImageView(image: UIImage(named: "LOF-Program2018-map.jpg"))
         
         scrollView = UIScrollView(frame: view.bounds)
         scrollView.backgroundColor = UIColor.black

@@ -7,13 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		630111BB20C4452300618482 /* LOF_Logo_2018.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 630111BA20C4452300618482 /* LOF_Logo_2018.jpg */; };
+		630111BF20C44F9C00618482 /* LOF-Program2018-web.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 630111BE20C44F9C00618482 /* LOF-Program2018-web.pdf */; };
+		630111C120C44FFE00618482 /* LOF-Program2018-map.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 630111C020C44FFE00618482 /* LOF-Program2018-map.jpg */; };
 		631C9B751EE91A2500501BB6 /* camps.json in Resources */ = {isa = PBXBuildFile; fileRef = 631C9B741EE91A2500501BB6 /* camps.json */; };
 		631C9B771EE91A2C00501BB6 /* events2.json in Resources */ = {isa = PBXBuildFile; fileRef = 631C9B761EE91A2C00501BB6 /* events2.json */; };
-		631C9B791EE91A3600501BB6 /* LOF-Program2017-map.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 631C9B781EE91A3600501BB6 /* LOF-Program2017-map.jpg */; };
-		631C9B7B1EE91A9D00501BB6 /* LOF-Program2017-web.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 631C9B7A1EE91A9D00501BB6 /* LOF-Program2017-web.pdf */; };
 		6322747E1E4EB57600E151BB /* WWWViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6322747D1E4EB57600E151BB /* WWWViewController.swift */; };
 		632274801E4F6F9500E151BB /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6322747F1E4F6F9500E151BB /* MapViewController.swift */; };
-		632274821E4F717300E151BB /* LOF-Program2016-map.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 632274811E4F717300E151BB /* LOF-Program2016-map.jpg */; };
 		63330A4A1E33E2CA004DADF2 /* CampsDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63330A491E33E2CA004DADF2 /* CampsDetailViewController.swift */; };
 		637FC5221DC8EDD80008BEE2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 637FC5211DC8EDD80008BEE2 /* AppDelegate.swift */; };
 		637FC5241DC8EDD80008BEE2 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 637FC5231DC8EDD80008BEE2 /* FirstViewController.swift */; };
@@ -24,17 +24,16 @@
 		639801971E46628F0008579C /* EventTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 639801961E46628F0008579C /* EventTableViewCell.swift */; };
 		63B3725A1DCBD169007A6377 /* EventsDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63B372591DCBD169007A6377 /* EventsDetailViewController.swift */; };
 		63EA8F3C1E46509400DE5333 /* CampTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63EA8F3B1E46509400DE5333 /* CampTableViewCell.swift */; };
-		63EE64051EDBE4C600BB95F1 /* LoF_Logo_2017_3_Final v2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 63EE64041EDBE4C600BB95F1 /* LoF_Logo_2017_3_Final v2.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		630111BA20C4452300618482 /* LOF_Logo_2018.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = LOF_Logo_2018.jpg; sourceTree = "<group>"; };
+		630111BE20C44F9C00618482 /* LOF-Program2018-web.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "LOF-Program2018-web.pdf"; sourceTree = "<group>"; };
+		630111C020C44FFE00618482 /* LOF-Program2018-map.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "LOF-Program2018-map.jpg"; sourceTree = "<group>"; };
 		631C9B741EE91A2500501BB6 /* camps.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = camps.json; sourceTree = "<group>"; };
 		631C9B761EE91A2C00501BB6 /* events2.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = events2.json; sourceTree = "<group>"; };
-		631C9B781EE91A3600501BB6 /* LOF-Program2017-map.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "LOF-Program2017-map.jpg"; sourceTree = "<group>"; };
-		631C9B7A1EE91A9D00501BB6 /* LOF-Program2017-web.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "LOF-Program2017-web.pdf"; sourceTree = "<group>"; };
 		6322747D1E4EB57600E151BB /* WWWViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WWWViewController.swift; sourceTree = "<group>"; };
 		6322747F1E4F6F9500E151BB /* MapViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
-		632274811E4F717300E151BB /* LOF-Program2016-map.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "LOF-Program2016-map.jpg"; path = "Tabbed App Demo/Assets.xcassets/LOF-Program2016-map.imageset/LOF-Program2016-map.jpg"; sourceTree = "<group>"; };
 		63330A491E33E2CA004DADF2 /* CampsDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CampsDetailViewController.swift; sourceTree = "<group>"; };
 		637FC51E1DC8EDD80008BEE2 /* Lakes of Fire.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Lakes of Fire.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		637FC5211DC8EDD80008BEE2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -47,7 +46,6 @@
 		639801961E46628F0008579C /* EventTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EventTableViewCell.swift; sourceTree = "<group>"; };
 		63B372591DCBD169007A6377 /* EventsDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EventsDetailViewController.swift; sourceTree = "<group>"; };
 		63EA8F3B1E46509400DE5333 /* CampTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CampTableViewCell.swift; sourceTree = "<group>"; };
-		63EE64041EDBE4C600BB95F1 /* LoF_Logo_2017_3_Final v2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "LoF_Logo_2017_3_Final v2.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,10 +66,9 @@
 				637FC51F1DC8EDD80008BEE2 /* Products */,
 				631C9B741EE91A2500501BB6 /* camps.json */,
 				631C9B761EE91A2C00501BB6 /* events2.json */,
-				63EE64041EDBE4C600BB95F1 /* LoF_Logo_2017_3_Final v2.jpg */,
-				632274811E4F717300E151BB /* LOF-Program2016-map.jpg */,
-				631C9B781EE91A3600501BB6 /* LOF-Program2017-map.jpg */,
-				631C9B7A1EE91A9D00501BB6 /* LOF-Program2017-web.pdf */,
+				630111BA20C4452300618482 /* LOF_Logo_2018.jpg */,
+				630111C020C44FFE00618482 /* LOF-Program2018-map.jpg */,
+				630111BE20C44F9C00618482 /* LOF-Program2018-web.pdf */,
 			);
 			sourceTree = "<group>";
 		};
@@ -164,15 +161,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				631C9B7B1EE91A9D00501BB6 /* LOF-Program2017-web.pdf in Resources */,
-				632274821E4F717300E151BB /* LOF-Program2016-map.jpg in Resources */,
 				637FC52E1DC8EDD80008BEE2 /* LaunchScreen.storyboard in Resources */,
+				630111C120C44FFE00618482 /* LOF-Program2018-map.jpg in Resources */,
 				637FC52B1DC8EDD80008BEE2 /* Assets.xcassets in Resources */,
-				631C9B791EE91A3600501BB6 /* LOF-Program2017-map.jpg in Resources */,
+				630111BB20C4452300618482 /* LOF_Logo_2018.jpg in Resources */,
 				631C9B771EE91A2C00501BB6 /* events2.json in Resources */,
 				631C9B751EE91A2500501BB6 /* camps.json in Resources */,
 				637FC5291DC8EDD80008BEE2 /* Main.storyboard in Resources */,
-				63EE64051EDBE4C600BB95F1 /* LoF_Logo_2017_3_Final v2.jpg in Resources */,
+				630111BF20C44F9C00618482 /* LOF-Program2018-web.pdf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
