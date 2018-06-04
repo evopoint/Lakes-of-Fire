@@ -86,6 +86,7 @@
    </AnalyzeAction>
    <ArchiveAction
       buildConfiguration = "Release"
+      customArchiveName = "Lakes of Fire"
       revealArchiveInOrganizer = "YES">
    </ArchiveAction>
 </Scheme>
